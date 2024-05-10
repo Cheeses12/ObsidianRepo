@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8596237c62e59965",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f6196094de6ae577",
             "type": "leaf",
             "state": {
@@ -37,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Book List.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#housekeeping",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -110,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Book List.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "Book List.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "Book List.md"
           }
         }
       }
@@ -159,7 +147,7 @@
   "active": "17bdb1c061303532",
   "lastOpenFiles": [
     "Schedule.md",
-    "Untitled.md",
+    "Book List.md",
     "Test Note.md",
     "README.md",
     "NOTES"
