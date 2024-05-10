@@ -1,2 +1,2 @@
 Yarok - 2 player - Craterhoof
-Yarok - 2 player - 
+Yarok - 2 player - Bolas's Citadel
