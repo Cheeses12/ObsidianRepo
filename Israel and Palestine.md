@@ -19,5 +19,9 @@
 	- Set up different institutions for Christians, Jews, and Muslims
 		- makes it easier for brits to "divide and rule"
 	- Still tried to uphold the [[Balfour Declaration]]
+		- Jewish population grew by more than 320,000 people
+		- Just under 30% of the entire population of Palestine
+- New Jewish population focused on purchasing land from absentee non-Palestinian Arab landowners and then evicted the Palestinians who were farming that land
+	- By controlling the land 
 #notes
 #geopolitics
