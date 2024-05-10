@@ -43,5 +43,8 @@
 	- West Bank, East Jerusalem, and Gaza Strip
 	- These settlements aren't legal by international law
 		- Israel counters by not recognizing Palestine as a country
+- Gave rise to the first Intifada
+	- This then gave rise to Hamas
+		- Launched first suicide bombing against Israel in 1993
 #notes
 #geopolitics
