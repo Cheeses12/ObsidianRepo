@@ -11,9 +11,13 @@
 	- **Theodor Herzl** was convinced that Jewish people need their own country
 - *Zionism* is the belief in Jewish nationalism
 - Most Zionists believed that Israel was a state for Jews not a Jewish state
-- British government hoped to gain the support of Jewish people and declared Palestine as a Jewish state while Palestine was still apart of the Ottoman Empire
-- Brits also promised Palestine to the French
-- Brits also promised Palestine to the Arabs (Mecans)
-- Brits thought that they would rule until the Palestinian people could rule themselves, the Palestinians were ready to rule, the Brits didn't want to give up p
+- British involvement
+	- British government hoped to gain the support of Jewish people and declared Palestine as a Jewish state while Palestine was still apart of the Ottoman Empire [[Balfour Declaration]]
+	- Brits also promised Palestine to the French
+	- Brits also promised Palestine to the Arabs (Mecans)
+	- Brits thought that they would rule until the Palestinian people could rule themselves, the Palestinians were ready to rule, the Brits didn't want to give up power
+	- Set up different institutions for Christians, Jews, and Muslims
+		- makes it easier for brits to "divide and rule"
+	- Still tried to uphold the [[Balfour Declaration]]
 #notes
 #geopolitics
