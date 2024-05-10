@@ -30,5 +30,11 @@
 - Arab Palestinians were upset that they had to wait another decade for a state
 - Brits handed the issue of the colony over to the new United Nations
 - United nations voted to split Palestine into separate Jewish and Palestinian states
+	- ![[Pasted image 20240510174001.png]]
+- War broke out with the Palestinians and other Arab nations on one side and the Jewish people on the other
+	- Israel won and took more land from Palestine
+- Nakba
+	- 700,000 Palestinians fled their home and became refugees, Israel became a nation
+- Israel went to war with the surrounding Arab nations and took the West bank, the Gaza Strip, the Goand the Sinai Peninsula
 #notes
 #geopolitics
