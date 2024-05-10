@@ -15,7 +15,7 @@
 - British involvement
 	- British government hoped to gain the support of Jewish people and declared Palestine as a Jewish state while Palestine was still apart of the Ottoman Empire [[Balfour Declaration]]
 	- Brits also promised Palestine to the French
-	- Brits also promised Palestine to the Arabs (Mecans)
+	- Brits also promised Palestine to the Arabs ([[Meccans]])
 	- Brits thought that they would rule until the Palestinian people could rule themselves, the Palestinians were ready to rule, the Brits didn't want to give up power
 	- Set up different institutions for Christians, Jews, and Muslims
 		- makes it easier for brits to "divide and rule"
@@ -26,6 +26,9 @@
 	- By controlling the land and labor, they hoped to create more of a secure community
 	- Palestinians hated this and revolted
 	- Jewish population in collaboration with the brits crushed the revolution
-- Brits tried to limit Jewish immigration to Palestine 
+- Brits tried to limit Jewish immigration to Palestine during the Holocaust
+- Arab Palestinians were upset that they had to wait another decade for a state
+- Brits handed the issue of the colony over to the new United Nations
+- United nations voted to split Palestine into separate Jewish and Palestinian states
 #notes
 #geopolitics
