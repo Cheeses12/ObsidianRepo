@@ -1,4 +1,5 @@
 ## CrashCourse
+### John Green
 - Mostly not about religion, mostly about land
 - Competing nationalisms
 - Ottoman Empire ruled over what is now Palestine
@@ -22,6 +23,9 @@
 		- Jewish population grew by more than 320,000 people
 		- Just under 30% of the entire population of Palestine
 - New Jewish population focused on purchasing land from absentee non-Palestinian Arab landowners and then evicted the Palestinians who were farming that land
-	- By controlling the land 
+	- By controlling the land and labor, they hoped to create more of a secure community
+	- Palestinians hated this and revolted
+	- Jewish population in collaboration with the brits crushed the revolution
+- Brits tried to limit Jewish immigration to Palestine 
 #notes
 #geopolitics
