@@ -35,6 +35,13 @@
 	- Israel won and took more land from Palestine
 - Nakba
 	- 700,000 Palestinians fled their home and became refugees, Israel became a nation
-- Israel went to war with the surrounding Arab nations and took the West bank, the Gaza Strip, the Goand the Sinai Peninsula
+- Israel went to war with the surrounding Arab nations and took the West bank, the Gaza Strip, the Golan Heights, and the Sinai Peninsula (Six Days War)
+	- Israel now controlled almost all of Palestine
+- The UN signed a resolution that made Israel give up the land that was taken in the 6 days war
+- Broader Israeli-Arab conflict turned into Palestinian conflict
+- Israel started to settle in Palestinian land again
+	- West Bank, East Jerusalem, and Gaza Strip
+	- These settlements aren't legal by international law
+		- Israel counters by not recognizing Palestine as a country
 #notes
 #geopolitics
