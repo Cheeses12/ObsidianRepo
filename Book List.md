@@ -7,3 +7,5 @@
 - [ ] Do reading for English before Monday at midnight
 
 #housekeeping
+#reading
+#lists
