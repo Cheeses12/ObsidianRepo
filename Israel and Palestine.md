@@ -46,6 +46,12 @@
 - Gave rise to the first Intifada
 	- This then gave rise to Hamas
 		- Launched first suicide bombing against Israel in 1993
-		- Hamas had
+		- Hamas had lots of social welfare projects in Gaza, mostly why they gained power
+			- Built and staffed schools
+			- Built clinics
+			- Built mosques
+	- First peace talks between Israel and Palestine
+- The Clinton talks got closer than anyone else in the past had to getting peace in the area
+- 
 #notes
 #geopolitics
