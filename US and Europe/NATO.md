@@ -1,0 +1,7 @@
+---
+
+---
+
+# Europe
+## First Thought
+- 
