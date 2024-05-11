@@ -58,6 +58,10 @@
 	- Holiest site in Judaism
 	- This led to the second Intifada
 		- 3,000 Palestinians were killed, 1,000 Israelis were killed
-		- In response to this, 
+		- In response to this, the Israelis built a wall that excluded the Palestinians from the land that was legally theirs, but had been settled by the Israelis
+- Hamas, since taking power, has been launching rockets into Israel and in turn, Israel has been invading Palestine
+- Internal logic of the countries
+	- Palestinians have been denied statehood since like the dawn of time, first by the brits, and now by their occupiers
+	- Israel is a home for one of the most historically oppressed groups. It views itself as trying to protect itself from the very real threats around it
 #notes
 #geopolitics
