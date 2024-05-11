@@ -70,7 +70,7 @@ Summary: "These are notes that I took after watching the \"Conflict in Israel an
 	- Israel is a home for one of the most historically oppressed groups. It views itself as trying to protect itself from the very real threats around it
 
 ## Vox
-Vox
+### Vox
 - This is not a religious war, it is a war that came to be because two groups wanted the same land
 - The war only dates back about 100 years
 	- The land was still controlled by the [[Ottoman Empire]]
@@ -78,6 +78,12 @@ Vox
 			- Mostly Muslim and Christian, but some Jews
 		- During this time, many people stopped seeing themselves as Arabs more generally, but instead, they saw themselves as Palestinians
 	- At the same time, many Jews in Europe began to see themselves a *[[Zionists]]*
+		- Many people began to view a Jewish state as their only way to safety
+		- Once a place was chosen, tens of thousands of Jews moved there
+		- World War 1 ended
+			- Ottoman Empire collapsed, and the French and British governments carved up the middle east
+				- British took Palestine
+					- At first, the brits allowed Jewish immigration, but tensions grew between them and the Arabs
 #notes
 #geopolitics
 #Israel
