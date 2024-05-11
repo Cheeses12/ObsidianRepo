@@ -84,6 +84,13 @@ Summary: "These are notes that I took after watching the \"Conflict in Israel an
 			- Ottoman Empire collapsed, and the French and British governments carved up the middle east
 				- British took Palestine
 					- At first, the brits allowed Jewish immigration, but tensions grew between them and the Arabs
+	- World War 2 ended, and the UN created a proposal to carve up Palestine into two different countries
+		- Israel for the Jews
+		- Palestine for the Arabs
+		- Jerusalem became a special international area
+	- After this resolution, many Arab countries who had also just won their independence form colonial powers saw this as another colonial grab at land
+		- They declared war on Israel
+		- Israel won and took lots of land from Palestine and the b
 #notes
 #geopolitics
 #Israel
