@@ -90,7 +90,10 @@ Summary: "These are notes that I took after watching the \"Conflict in Israel an
 		- Jerusalem became a special international area
 	- After this resolution, many Arab countries who had also just won their independence form colonial powers saw this as another colonial grab at land
 		- They declared war on Israel
-		- Israel won and took lots of land from Palestine and the b
+		- Israel won and took lots of land from Palestine and the bordering Arab countries
+			- The only land that they didn't take was Gaza, which was controlled by Egypt, and the West Bank, which was controlled by Jordan
+	- Israel and bordering nations fought the Six-Day War
+		- In this, Israel took Golan Heights from Syria, the West Bank from Jordan, and Sinai and Gaza from Egypt. They also took Jerusalem
 #notes
 #geopolitics
 #Israel
