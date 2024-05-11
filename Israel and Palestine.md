@@ -1,3 +1,8 @@
+---
+Type: Notes
+Summary: "These are notes that I took after watching the \"Conflict in Israel and Palestine through 2015: Crash Course World History #223\" video hosted by John Green. This was prompted by a discussion I had with Mitchell in which I realized that I didn't know a lot about the issue."
+---
+
 ## CrashCourse
 ### John Green
 - Mostly not about religion, mostly about land
@@ -63,5 +68,11 @@
 - Internal logic of the countries
 	- Palestinians have been denied statehood since like the dawn of time, first by the brits, and now by their occupiers
 	- Israel is a home for one of the most historically oppressed groups. It views itself as trying to protect itself from the very real threats around it
+
+## Vox
+Vox
+- This is not a religious 
 #notes
 #geopolitics
+#Israel
+#Palestine
