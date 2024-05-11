@@ -52,6 +52,12 @@
 			- Built mosques
 	- First peace talks between Israel and Palestine
 - The Clinton talks got closer than anyone else in the past had to getting peace in the area
-- 
+- **Ariel Sharon** brought armed guards to the Temple Mount in the old city of Jerusalem
+	- Muslims call it the Al-Aqsa Mosques
+		- Third holiest place in Islam
+	- Holiest site in Judaism
+	- This led to the second Intifada
+		- 3,000 Palestinians were killed, 1,000 Israelis were killed
+		- In response to this, 
 #notes
 #geopolitics
