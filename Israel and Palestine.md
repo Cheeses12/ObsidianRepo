@@ -46,5 +46,6 @@
 - Gave rise to the first Intifada
 	- This then gave rise to Hamas
 		- Launched first suicide bombing against Israel in 1993
+		- Hamas had
 #notes
 #geopolitics
