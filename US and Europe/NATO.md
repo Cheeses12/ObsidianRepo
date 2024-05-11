@@ -11,3 +11,4 @@ Summary: Notes on the interactions between the US, NATO, and the EU
 	- Almost on economic collapse
 	- Resurrection was exclusively tied to American aid
 		- [[Bretton Woods Agreement]]
+		- [[The Marshall Plan]]
