@@ -71,8 +71,14 @@ Summary: "These are notes that I took after watching the \"Conflict in Israel an
 
 ## Vox
 Vox
-- This is not a religious 
+- This is not a religious war, it is a war that came to be because two groups wanted the same land
+- The war only dates back about 100 years
+	- The land was still controlled by the Ottoman Empire
+		- While controlled by the Ottomans, the land was very religiously diverse
+			- Mostly Muslim and Christian, but some Jews
+		- During this time, many people stopped seeing themselves as Arabs more generally, but instead, they saw themselves as Palestinians
 #notes
 #geopolitics
 #Israel
 #Palestine
+#CrashCour
