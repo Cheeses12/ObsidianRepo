@@ -47,10 +47,11 @@
             "id": "9f80fae7373fdb19",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "staged": false,
-                "file": "Magic Games.md"
+                "file": "Book List.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -121,6 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Book List.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,6 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Book List.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +150,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Book List.md"
+          }
         }
       },
       {
@@ -171,15 +176,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b710ee87c5dae26c",
+  "active": "9f80fae7373fdb19",
   "lastOpenFiles": [
     "Magic Games.md",
+    "README.md",
+    "Schedule.md",
     "conflict-files-obsidian-git.md",
     "Book List.md",
     "Untitled",
-    "Schedule.md",
     "Test Note.md",
-    "README.md",
     "NOTES"
   ]
 }
