@@ -94,6 +94,8 @@ Summary: "These are notes that I took after watching the \"Conflict in Israel an
 			- The only land that they didn't take was Gaza, which was controlled by Egypt, and the West Bank, which was controlled by Jordan
 	- Israel and bordering nations fought the Six-Day War
 		- In this, Israel took Golan Heights from Syria, the West Bank from Jordan, and Sinai and Gaza from Egypt. They also took Jerusalem
+	- Camp David Accords made Israel give Sinai back to Egypt
+		- Israel was still controlling
 #notes
 #geopolitics
 #Israel
