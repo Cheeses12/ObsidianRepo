@@ -15,7 +15,7 @@ Summary: "These are notes that I took after watching the \"Conflict in Israel an
 	- Religious populations were roughly equal in Jerusalem 
 	- Ottoman Palestine was a place of religious peace
 	- **Theodor Herzl** was convinced that Jewish people need their own country
-- *Zionism* is the belief in Jewish nationalism
+- *[[Zionism]]* is the belief in Jewish nationalism
 - Most Zionists believed that Israel was a state for Jews not a Jewish state
 - British involvement
 	- British government hoped to gain the support of Jewish people and declared Palestine as a Jewish state while Palestine was still apart of the Ottoman Empire [[Balfour Declaration]]
@@ -77,8 +77,10 @@ Vox
 		- While controlled by the Ottomans, the land was very religiously diverse
 			- Mostly Muslim and Christian, but some Jews
 		- During this time, many people stopped seeing themselves as Arabs more generally, but instead, they saw themselves as Palestinians
+	- At the same time, many Jews in Europe began to see themselves a *[[Zionists]]*
 #notes
 #geopolitics
 #Israel
 #Palestine
-#CrashCour
+#CrashCourse 
+#vox
