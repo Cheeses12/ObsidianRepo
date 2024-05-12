@@ -18,3 +18,5 @@ Source: https://www.youtube.com/watch?v=b8n0sB13m0k
 			- Europe relied exclusively on USD
 - US monetary intervention in Europe was done to stop "Soviet Expansionism"
 - NATO deepens the extent that the US is involved with Europe
+	- Stokes tensions with Russia
+- NATO has been expanding rapidly
