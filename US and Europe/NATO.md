@@ -17,4 +17,4 @@ Source: https://www.youtube.com/watch?v=b8n0sB13m0k
 			- Prevented them from responding to market forces
 			- Europe relied exclusively on USD
 - US monetary intervention in Europe was done to stop "Soviet Expansionism"
-- 
+- NATO deepens the extent that the US is involved with Europe
