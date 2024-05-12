@@ -21,4 +21,12 @@ Source: https://www.youtube.com/watch?v=b8n0sB13m0k
 	- Stokes tensions with Russia
 - NATO has been expanding rapidly, including countries that were formally in the [[Warsaw Pact]]
 - The military power in NATO mostly comes from the US
-- 
+	- This leaves European nations entirely under the protection of the US
+		- Gives the US a outsized say in the politics of European nations
+- Operation Gladio
+	- Happened during the Cold War
+	- The CIA and MI6 created a para-military organization under the name of NATO
+		- This force resisted a potential "Soviet Threat"
+		- They operated in many countries that were close geographically to the USSR
+			- Stock piled guns and explosives
+				- 
