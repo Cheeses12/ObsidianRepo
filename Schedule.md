@@ -1,5 +1,13 @@
-```dataview
-TABLE Date, Event
-WHERE type = "Event" and Completed != "yes"
+---
+
+kanban-plugin: basic
+
+---
+
+
+
+%% kanban:settings
 ```
-#housekeeping
+{"kanban-plugin":"basic"}
+```
+%%
