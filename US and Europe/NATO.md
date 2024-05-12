@@ -16,4 +16,5 @@ Source: https://www.youtube.com/watch?v=b8n0sB13m0k
 		- The large amount of aid that the US gave to Europe forced Europe to give up lots of monetary power to the US
 			- Prevented them from responding to market forces
 			- Europe relied exclusively on USD
-		- 
+- US monetary intervention in Europe was done to stop "Soviet Expansionism"
+- 
