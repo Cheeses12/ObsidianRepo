@@ -19,4 +19,4 @@ Source: https://www.youtube.com/watch?v=b8n0sB13m0k
 - US monetary intervention in Europe was done to stop "Soviet Expansionism"
 - NATO deepens the extent that the US is involved with Europe
 	- Stokes tensions with Russia
-- NATO has been expanding rapidly
+- NATO has been expanding rapidly, including countries that were formally in the [[Warsaw Pact]]
