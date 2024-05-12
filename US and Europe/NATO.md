@@ -1,6 +1,7 @@
 ---
 Type: Notes
 Summary: Notes on the interactions between the US, NATO, and the EU
+Source: https://www.youtube.com/watch?v=b8n0sB13m0k
 ---
 
 # Europe
