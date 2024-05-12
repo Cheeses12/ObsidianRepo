@@ -1,6 +1,5 @@
 ```dataview
-TABLE
-TASK
-WHERE type = "Event" and !completed
+TABLE Date, Event
+WHERE type = "Event" and Completed != "yes"
 ```
 #housekeeping
