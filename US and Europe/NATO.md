@@ -29,4 +29,9 @@ Source: https://www.youtube.com/watch?v=b8n0sB13m0k
 		- This force resisted a potential "Soviet Threat"
 		- They operated in many countries that were close geographically to the USSR
 			- Stock piled guns and explosives
-				- 
+				- The weapons were used to enable right-wing militias in these countries and blame their actions of supposed socialist activities
+				- This operation carried out 14,591 actions between January of 1969 and December of 1987 in Italy alone
+					- First act was the Piazza Fontana Massacre
+						- Killed 16 people and injured 88
+					- Most notorious attack was the Bologna Railway Station Bombing in 1980
+						- a bomb in the Bologna Railway station killed 85 and injured 
