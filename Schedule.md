@@ -1,4 +1,6 @@
 ```dataview
-task where 
+TABLE
+TASK
+WHERE type = "Event" and !completed
 ```
 #housekeeping
