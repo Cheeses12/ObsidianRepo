@@ -37,4 +37,8 @@ Source: https://www.youtube.com/watch?v=b8n0sB13m0k
 						- a bomb in the Bologna Railway station killed 85 and injured 200
 - After WWII, the US was able to rig elections in France, Switzerland, Italy, and Greece to get people more favorable to the US in power
 - The Brits couldn't stop a communist revolution in Greece, so they called the US
-	- Greece was the first test of the [[Truman Doctrine]]
+	- Greece was the first test of the Truman Doctrine
+		- US policy to shape foreign politics to align with the interests of the US, specifically stopping the spread of communism
+- In France, the US made it clear that the only way that the US would give them money was if they excluded any and all communists from their government despite the fact that they were the people's choice
+- In Italy 1948, the CIA funded candidates to stop communists from winning
+- The CIA funded and continuean ongoing genocide 
