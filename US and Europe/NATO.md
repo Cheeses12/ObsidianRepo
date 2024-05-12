@@ -20,3 +20,5 @@ Source: https://www.youtube.com/watch?v=b8n0sB13m0k
 - NATO deepens the extent that the US is involved with Europe
 	- Stokes tensions with Russia
 - NATO has been expanding rapidly, including countries that were formally in the [[Warsaw Pact]]
+- The military power in NATO mostly comes from the US
+- 
