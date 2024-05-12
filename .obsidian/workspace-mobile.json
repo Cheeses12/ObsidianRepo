@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e32f07254bc705e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Torries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Israel and Palestine/Zionism.md",
+            "file": "Torries.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Israel and Palestine/Zionism.md",
+            "file": "Torries.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Israel and Palestine/Zionism.md"
+            "file": "Torries.md"
           }
         }
       },
@@ -176,13 +188,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f80fae7373fdb19",
+  "active": "e32f07254bc705e8",
   "lastOpenFiles": [
+    "Israel and Palestine/Zionism.md",
+    "Torries.md",
     "README.md",
     "Magic Games.md",
     "Book List.md",
     "Israel and Palestine/Zionists.md",
-    "Israel and Palestine/Zionism.md",
     "Israel and Palestine/Pasted image 20240510174001.png",
     "Israel and Palestine/Pasted image 20240510235357.png",
     "Israel and Palestine/Balfour Declaration.md",
