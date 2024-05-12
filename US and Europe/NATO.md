@@ -41,4 +41,10 @@ Source: https://www.youtube.com/watch?v=b8n0sB13m0k
 		- US policy to shape foreign politics to align with the interests of the US, specifically stopping the spread of communism
 - In France, the US made it clear that the only way that the US would give them money was if they excluded any and all communists from their government despite the fact that they were the people's choice
 - In Italy 1948, the CIA funded candidates to stop communists from winning
-- The CIA funded and continuean ongoing genocide 
+- The CIA funded and continues to fund an ongoing genocide in Palestine
+	- Many European countries are also funding Israel
+		- They do this through [[Horizon Europe]] to the tune of 111 billion euros
+		- Germany alone has exported over $353 million dollars worth of weapons to Israel
+- With the start of the Russian invasion of Ukraine, the EU has lost any semblance of energy stability
+	- 85% of all gas consumed in the EU originated outside the EU
+	- Russia supplied 48% of all energy to Europe
