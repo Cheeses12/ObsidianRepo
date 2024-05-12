@@ -48,3 +48,6 @@ Source: https://www.youtube.com/watch?v=b8n0sB13m0k
 - With the start of the Russian invasion of Ukraine, the EU has lost any semblance of energy stability
 	- 85% of all gas consumed in the EU originated outside the EU
 	- Russia supplied 48% of all energy to Europe
+	- At the start of the war, oil prices soared to $130 dollars per barrel, a 50% increase in cost
+	- The cost of natural gas increased by 180% in the first two weeks of the war
+	- Explosions in the Baltic Sea destroyed two large natural gas pipelines that carried it from Russia to Germany
