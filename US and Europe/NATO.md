@@ -34,4 +34,7 @@ Source: https://www.youtube.com/watch?v=b8n0sB13m0k
 					- First act was the Piazza Fontana Massacre
 						- Killed 16 people and injured 88
 					- Most notorious attack was the Bologna Railway Station Bombing in 1980
-						- a bomb in the Bologna Railway station killed 85 and injured 
+						- a bomb in the Bologna Railway station killed 85 and injured 200
+- After WWII, the US was able to rig elections in France, Switzerland, Italy, and Greece to get people more favorable to the US in power
+- The Brits couldn't stop a communist revolution in Greece, so they called the US
+	- Greece was the first test of the [[Truman Doctrine]]
