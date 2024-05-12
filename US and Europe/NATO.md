@@ -13,3 +13,7 @@ Source: https://www.youtube.com/watch?v=b8n0sB13m0k
 	- Resurrection was exclusively tied to American aid
 		- [[Bretton Woods Agreement]]
 		- [[The Marshall Plan]]
+		- The large amount of aid that the US gave to Europe forced Europe to give up lots of monetary power to the US
+			- Prevented them from responding to market forces
+			- Europe relied exclusively on USD
+		- 
