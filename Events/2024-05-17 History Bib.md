@@ -36,7 +36,7 @@ https://sas-space.sas.ac.uk/4196/1/Gavin_Williams_-_Capitalism_and_agriculture,_
 ## Politics
 
 ```dataview
-TABLE where file.tags = "apgov"
+TABLE where file.tags = apgov
 ```
 
 #marx
