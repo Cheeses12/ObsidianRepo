@@ -61,4 +61,6 @@ Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
 	- It is in the desire of those with power to keep education the way it is to avoid disrupting the system that gave them the power in the first place
 - Foucault believed that we live in a society of discipline where institutions enforce that
 	- School, work, military, prison
-		- These institutions 
+		- These institutions help to create docile people who won't question the current status quo
+		- The education system shames those who are less fortunate than others
+			- Alice tells a story of a day when a calss
