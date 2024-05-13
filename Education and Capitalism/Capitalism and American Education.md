@@ -38,3 +38,6 @@ Source: https://www.youtube.com/watch?v=IoHRAg9aVm8
 - Every step that the capitalist class takes is calculated to ensure that the exploitability of workers only increases
 	- The reason that education is being cut even though the US is now competing on a much larger scale is because that yields a slower return on investment
 		- A person who goes to a well funded school and goes into a lot of debt to get a degree in a niche field and then may or may not land a job or do anything of note is less efficient in terms of profit than training people to be docile and trained to do what they are told and regurgitate information.
+	- 80% of jobs in the US are a part of the service industry
+	- In an economy based on consumption there isn't the same need to have a well funded education system.
+		- If you need someone to fulfil a niche role, you can simply take someone from a private school
