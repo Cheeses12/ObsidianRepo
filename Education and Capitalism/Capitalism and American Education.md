@@ -27,4 +27,9 @@ Source: https://www.youtube.com/watch?v=IoHRAg9aVm8
 			- Anything that didn't improve test scores was the first thing to get cut from school
 				- This includes the arts, free time, and after school programs
 - This urge to gut schooling systems has been consistent since then
-	- Policies like No Child Left Behind and Race to the Top
+	- Policies like No Child Left Behind and Race to the Top have all been excuses to cut funds from schools that don't perform as well
+	- There is also a push to cut "wokeness" from school
+		- This means revising curriculums to remove anything that may make the US look bad
+	- The *Nation at Risk* Report also placed the blame of the poor performance of schools on teachers
+		- Teachers became the scapegoat our our failing educational system
+- If the sole imperative in a system 
