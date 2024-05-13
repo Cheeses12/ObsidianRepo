@@ -90,3 +90,4 @@ Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
 - Gen Alpha moral panic is just people pointing fingers at the symptoms of a broken system not digging into the root problem
 	- Shifts societal issues onto the individual
 	- When people view the issues as personal, the response is more conservatism
+#apgov

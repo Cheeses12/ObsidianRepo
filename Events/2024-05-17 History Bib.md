@@ -35,4 +35,8 @@ https://sas-space.sas.ac.uk/4196/1/Gavin_Williams_-_Capitalism_and_agriculture,_
 ## Medicine
 ## Politics
 
+```dataview
+TABLE 
+```
+
 #marx
