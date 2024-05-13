@@ -130,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Torries.md",
+            "file": "Book List.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Torries.md",
+            "file": "Book List.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Torries.md"
+            "file": "Book List.md"
           }
         }
       },
@@ -187,6 +187,10 @@
   },
   "active": "f13102ae7c9f7e09",
   "lastOpenFiles": [
+    "Education and Capitalism/Education Under Capitalism.md",
+    "/Education and Capitalism/Education Under Capitalism.md",
+    "Education and Capitalism",
+    "/Education and Capitalism",
     "Events/2024-05-17 History Bib.md",
     "Events/2024-05-14 Meeting with Madison.md",
     "Events/2024-05-13 English Reading.md",
@@ -211,8 +215,6 @@
     "/Schedule.md",
     "/Events/2024-05-14.md",
     "/Events/2024-05-13.md",
-    "/Book List.md",
-    "US and Europe/International Monetary Fund.md",
     "US and Europe",
     "Events",
     "/US and Europe",
