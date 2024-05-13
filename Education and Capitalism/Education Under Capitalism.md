@@ -30,4 +30,8 @@ Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
 		- Children would be free and free thinkers
 		- These same ideas were touted by Confucius
 			- People shouldn't be made to serve one purpose
-			- He implemented 
+				- He implemented tests to select the best educated across social classes and put them in positions of power
+					- he did not test for how well they would be able to legislate, but rather, they were tested on important parts of the society
+						- Culture, literature, sciences
+				- Rich people can still game the system as always
+- The thing that drives our cur
