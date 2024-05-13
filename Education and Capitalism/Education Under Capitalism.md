@@ -40,4 +40,10 @@ Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
 		- If we buy the education, we will grow to be successful and wealthy
 	- "Teaching is a service bought by students with a set of expectations"
 	- The student isn't pursuing education for self improvement 
-		- Students pursue education so the teacher will teach the curriculum and 
+		- Students pursue education so the teacher will teach the curriculum and they will pass the class and get the diploma and get a good paying job
+- Tie back to gen alpha
+	- Seeing teachers as service providers is becoming the norm
+		- Teachers aren't being held to the ideal of guiding children, but is more like the conservative education that was common during the enlightenment
+		- Teachers have to please, students, parents and administrators
+	- People don't tend to look at the root problems in society, rather the social ramifications of them
+		- Capitalism is deteriorating 
