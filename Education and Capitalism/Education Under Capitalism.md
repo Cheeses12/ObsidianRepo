@@ -9,4 +9,16 @@ Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
 	- Popular access to knowledge
 	- The encyclopedia
 	- Freedom of speech
-		- 
+		- Not in the way that right-wing people use it now
+- These ideas came from Enlightenment thinkers
+	- Voltaire
+	- Montesquieu
+	- Rousseau
+- Rousseau wrote an important book called *Emile or on Education*
+	- About "the art of forging men"
+	- He believed in freedom and authenticity
+		- These ideals could be developed by developing a skepticism towards "polite society"
+	- These ideas can be developed through education
+		- Children must be allowed to be outside
+		- Pursue what they are curious about
+- During this time there were two main
