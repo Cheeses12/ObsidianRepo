@@ -66,10 +66,16 @@ Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
 			- Alice tells a story of a day when a classmate came to class late and the teacher said something along the lines of "Tsk using perfume to cover the fact that you haven't showered in a week." Everybody laughed because they were expected to and wanted to gain the recognition of the teacher.
 				- The classmate in question lived in a small apartment with a lot of siblings and didn't have time to take a shower and be on time for class
 		- School is a place for symbolic violence
-			- People who are different from the main group are shunned and made to feel unwelcome. This shame then creates obedience later in life\
+			- People who are different from the main group are shunned and made to feel unwelcome. This shame then creates obedience later in life.
 - Freire talked about the banking system of education
 	- The student is passively receiving everything that the all-powerful educator is saying
 		- This view of education doesn't liberate the student or produce critical thinking, instead, it reproduces the current social order
 			- The way to create the best learning environment is to set up a dialogue between the student and the educator where it is understood that the educator can learn from the student.
 - One thing that contributes to the issue is that gentle parenting means that there is no authority or structure in the child's life
 - One French philosopher stated that accepting authority and having someone who absolutely knows better than you is liberating
+	- Comparison to museum guide. People follow the guide, stop when they stop, are quite when they are talking. They do this because there is an understanding that the guide will provide information that will "free" them.
+	- The has limits, we have to be critical to who we give this trust to, simply following a random person through the museum won't lead to freedom.
+		- Example is understanding that almost all climate scientists agree that the earth is warming due to human activity. This is like following the correct person through the art museum
+- There is a lack of trust now in education
+	- Students refuse to believe that they can be changed by their educators
+	- We have turned the relationship between the educato
