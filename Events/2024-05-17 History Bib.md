@@ -22,6 +22,7 @@ https://sas-space.sas.ac.uk/4196/1/Gavin_Williams_-_Capitalism_and_agriculture,_
 	- There is nothing natural about the collection of capital
 - 
 ## Education
+- [[Education Under Capitalism]]
 ## Energy
 ## Fashion
 ## Politics
