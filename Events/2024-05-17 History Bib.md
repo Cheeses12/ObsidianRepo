@@ -24,19 +24,15 @@ completed: null
 
 # Topics
 ## Farming and Agriculture
-Source 1:
-https://sas-space.sas.ac.uk/4196/1/Gavin_Williams_-_Capitalism_and_agriculture,_the_South_African_case.pdf
-- The greatest achievement of capital is to make it seem like its relations are natural
-	- There is nothing natural about the collection of capital
-- 
 ## Education
 - [[Education Under Capitalism]]
+- [[Education and Capitalism/Capitalism and American Education|Capitalism and American Education]]
 ## Energy
 ## Medicine
 ## Politics
 
 ```dataview
-TABLE where file.tags = apgov
+TABLE where contains(file.tags, "apgov") 
 ```
 
 #marx

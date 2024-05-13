@@ -74,6 +74,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "04c0fe14fa0dec48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitalism and South African Agriculture.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 5
@@ -199,8 +211,10 @@
   },
   "active": "6ce21e5fbf7188d5",
   "lastOpenFiles": [
-    "Education and Capitalism/Capitalism and American Education.md",
+    "Capitalism and South African Agriculture.md",
     "Events/2024-05-17 History Bib.md",
+    "Agriculture and Capitalism",
+    "Education and Capitalism/Capitalism and American Education.md",
     "README.md",
     "Education and Capitalism/Education Under Capitalism.md",
     "Events/2024-06-15 Violet party.md",
@@ -226,7 +240,6 @@
     "US and Europe/Warsaw Pact.md",
     "US and Europe/Eastern Bloc.md",
     "Events/2024-05-14.md",
-    "Events/2024-05-13.md",
     "US and Europe",
     "Events",
     "/US and Europe",
@@ -237,7 +250,6 @@
     "/Israel and Palestine/Pasted image 20240510174001.png",
     "Israel and Palestine",
     "/Israel and Palestine",
-    "Untitled",
     "NOTES"
   ]
 }
