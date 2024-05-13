@@ -15,7 +15,7 @@
               "state": {
                 "file": "Book List.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "Magic Games.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -39,7 +39,7 @@
               "state": {
                 "file": "Israel and Palestine/Zionism.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -51,7 +51,7 @@
               "state": {
                 "file": "Torries.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -70,8 +70,8 @@
               "type": "markdown",
               "state": {
                 "file": "Events/2024-05-17 History Bib.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -200,8 +200,9 @@
   "active": "6ce21e5fbf7188d5",
   "lastOpenFiles": [
     "Education and Capitalism/Capitalism and American Education.md",
-    "Education and Capitalism/Education Under Capitalism.md",
     "Events/2024-05-17 History Bib.md",
+    "README.md",
+    "Education and Capitalism/Education Under Capitalism.md",
     "Events/2024-06-15 Violet party.md",
     "Events/2024-06-09 Marissa Pary.md",
     "Events/2024-06-08 Ivy pary.md",
@@ -226,7 +227,6 @@
     "US and Europe/Eastern Bloc.md",
     "Events/2024-05-14.md",
     "Events/2024-05-13.md",
-    "/US and Europe/The Marshall Plan.md",
     "US and Europe",
     "Events",
     "/US and Europe",
