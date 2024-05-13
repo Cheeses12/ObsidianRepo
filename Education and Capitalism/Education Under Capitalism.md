@@ -58,3 +58,7 @@ Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
 	- "As long as nothing disrupts its harmony, the system can, in some ways, escape history by confining itself to the role of producing its  reproducers in a cycle of eternal return, since it is paradoxically by ignoring requirements other than that of its own reproduction, that is best contributes to the reproduction of the social order" - Bourdieu and Passeron
 		- Schools under capitalism only reinforce current inequalities
 			- Kids with wealth are more likely to succeed than poor kids
+	- It is in the desire of those with power to keep education the way it is to avoid disrupting the system that gave them the power in the first place
+- Foucault believed that we live in a society of discipline where institutions enforce that
+	- School, work, military, prison
+		- These institutions 
