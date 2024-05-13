@@ -83,4 +83,9 @@ Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
 			- Also students see the teacher as a medium between them and information
 		- Capitalism has promoted meritocracy where the people with merit have the authority and when you have an underpaid teacher, people don't associate that with merit
 - Education is operating under a conservative structure
-	- This struct
+	- This structure produces symbolic violence towards those who are different to those who are not a part of the dominant group
+	- Students are seen as threatening by the education system, something to be controlled and as a target for specific information
+	- People view the underpaid teachers as someone with no merit
+- Gen Alpha moral panic is just people pointing fingers at the symptoms of a broken system not digging into the root problem
+	- Shifts societal issues onto the individual
+	- When people view the 
