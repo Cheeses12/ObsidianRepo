@@ -46,4 +46,11 @@ Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
 		- Teachers aren't being held to the ideal of guiding children, but is more like the conservative education that was common during the enlightenment
 		- Teachers have to please, students, parents and administrators
 	- People don't tend to look at the root problems in society, rather the social ramifications of them
-		- Capitalism is deteriorating 
+		- Capitalism is deteriorating education and the role of the educator, but all people see is that the younger generation is "worse" than the previous one
+			- People want to return to the old way of education to cure the symptoms
+			- "The response to capitalism's deterioration of the education system is conservatism"
+- New people
+	- Foucault
+	- Freire
+	- Bourdieu
+	- Passeron
