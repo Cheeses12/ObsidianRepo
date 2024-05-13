@@ -14,8 +14,12 @@ completed: null
 		- Commodity - Money - Commodity
 	- Money that is used to buy something that is then sold again is called capital
 		- Money - Commodity - Money
+## Capitalism
+- A system defined by the private ownership of the means of production and the exploitation of the working class.
+- A system where there is private ownership of the means of production and there is an exploitation of wage labor
+## Means of Production 
 # Topics
-## Farming
+## Farming and Agriculture
 Source 1:
 https://sas-space.sas.ac.uk/4196/1/Gavin_Williams_-_Capitalism_and_agriculture,_the_South_African_case.pdf
 - The greatest achievement of capital is to make it seem like its relations are natural
@@ -24,7 +28,7 @@ https://sas-space.sas.ac.uk/4196/1/Gavin_Williams_-_Capitalism_and_agriculture,_
 ## Education
 - [[Education Under Capitalism]]
 ## Energy
-## Fashion
+## Medicine
 ## Politics
 
 #marx
