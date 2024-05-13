@@ -54,3 +54,7 @@ Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
 	- Freire
 	- Bourdieu
 	- Passeron
+- Conservatism in education is the desire to uphold the current social order
+	- "As long as nothing disrupts its harmony, the system can, in some ways, escape history by confining itself to the role of producing its  reproducers in a cycle of eternal return, since it is paradoxically by ignoring requirements other than that of its own reproduction, that is best contributes to the reproduction of the social order" - Bourdieu and Passeron
+		- Schools under capitalism only reinforce current inequalities
+			- Kids with wealth are more likely to succeed than poor kids
