@@ -18,6 +18,10 @@ completed: null
 - A system defined by the private ownership of the means of production and the exploitation of the working class.
 - A system where there is private ownership of the means of production and there is an exploitation of wage labor
 ## Means of Production 
+- The means of production is physical components that go into work such as factory equipment and raw materials.
+## Wage Labor
+- Wage Labor is the capability for a worker to sell their work as a commodity, the precondition for this being that the worker has no other way to survive.
+
 # Topics
 ## Farming and Agriculture
 Source 1:
