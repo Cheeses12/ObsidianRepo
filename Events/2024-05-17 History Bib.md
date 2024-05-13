@@ -27,12 +27,14 @@ completed: null
 - [[Capitalism and Food Security]]
 - [[Capitalism and South African Agriculture]]
 ## Education
-- [[Education Under Capitalism]]
-- [[Education and Capitalism/Capitalism and American Education|Capitalism and American Education]]
+- [[Education Under Capitalism]] (look at sources)
+- [[Education and Capitalism/Capitalism and American Education|Capitalism and American Education]] (look at sources)
 ## Oil
 - 
 ## Medicine
+- 
 ## Politics
+- 
 
 ```dataview
 TABLE where contains(file.tags, "apgov") 
