@@ -68,5 +68,8 @@ Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
 		- School is a place for symbolic violence
 			- People who are different from the main group are shunned and made to feel unwelcome. This shame then creates obedience later in life\
 - Freire talked about the banking system of education
-	- The student is passively receiving everything that the educator is saying
-		- This view of education doesn't liberate the student or produce critical thinking, instead, it p
+	- The student is passively receiving everything that the all-powerful educator is saying
+		- This view of education doesn't liberate the student or produce critical thinking, instead, it reproduces the current social order
+			- The way to create the best learning environment is to set up a dialogue between the student and the educator where it is understood that the educator can learn from the student.
+- One thing that contributes to the issue is that gentle parenting means that there is no authority or structure in the child's life
+- One French philosopher stated that accepting authority and having someone who absolutely knows better than you is liberating
