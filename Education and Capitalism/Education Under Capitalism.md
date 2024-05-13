@@ -21,4 +21,13 @@ Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
 	- These ideas can be developed through education
 		- Children must be allowed to be outside
 		- Pursue what they are curious about
-- During this time there were two main
+- During this time there were two main forms of education
+	- Traditional, conservative, and religious
+		- Child's development needs to be constrained by strict rules, giving too much freedom to children would have negative consequences
+	- Progressive
+		- Guided freedom
+			- Adults could guide children where they are curious
+		- Children would be free and free thinkers
+		- These same ideas were touted by Confucius
+			- People shouldn't be made to serve one purpose
+			- He implemented 
