@@ -20,4 +20,9 @@ Source: https://www.youtube.com/watch?v=IoHRAg9aVm8
 	- The reason that this is worrying is because it most likely won't be an isolated case. It is a good look into the trajectory of American schooling
 - Looking back at the 80's and Reagan
 	- Book published called *A Nation At Risk: The Imperative for Educational Reform*
-		- The book goes into how the US is being overtaken in many aspects that it was once the best at and is looking specific
+		- The book goes into how the US is being overtaken in many aspects that it was once the best at and is looking specifically at the poor performance of our educational systems
+		- This book was used to start "waging war" on education and there were cuts to education across the board
+		- Reagan had wanted to completely get rid of public education as a whole, but instead, he got to defund the system we have now
+		- Standardized testing began to be the sole metric for the performance of a school
+			- Anything that didn't improve test scores was the first thing to get cut from school
+				- This includes the arts, free time, and after school programs
