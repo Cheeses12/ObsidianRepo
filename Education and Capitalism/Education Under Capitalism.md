@@ -1,0 +1,60 @@
+---
+Type: Notes
+Summary: 'Notes on "the Gen Alpha moral panic: education under capitalism"'
+Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
+---
+- There is a general moral panic about the state of the children
+- Things that inspire or come from good education
+	- Critical thinking
+	- Popular access to knowledge
+	- The encyclopedia
+	- Freedom of speech
+		- Not in the way that right-wing people use it now
+- These ideas came from Enlightenment thinkers
+	- Voltaire
+	- Montesquieu
+	- Rousseau
+- Rousseau wrote an important book called *Emile or on Education*
+	- About "the art of forging men"
+	- He believed in freedom and authenticity
+		- These ideals could be developed by developing a skepticism towards "polite society"
+	- These ideas can be developed through education
+		- Children must be allowed to be outside
+		- Pursue what they are curious about
+- During this time there were two main forms of education
+	- Traditional, conservative, and religious
+		- Child's development needs to be constrained by strict rules, giving too much freedom to children would have negative consequences
+	- Progressive
+		- Guided freedom
+			- Adults could guide children where they are curious
+		- Children would be free and free thinkers
+		- These same ideas were touted by Confucius
+			- People shouldn't be made to serve one purpose
+				- He implemented tests to select the best educated across social classes and put them in positions of power
+					- he did not test for how well they would be able to legislate, but rather, they were tested on important parts of the society
+						- Culture, literature, sciences
+				- Rich people can still game the system as always
+- The thing that drives our current educational system is the protestant ethic
+	- The idea that we have one sole purpose in life and education is the ticket to that
+	- We see education as a commodity or service
+		- If we buy the education, we will grow to be successful and wealthy
+	- "Teaching is a service bought by students with a set of expectations"
+	- The student isn't pursuing education for self improvement 
+		- Students pursue education so the teacher will teach the curriculum and they will pass the class and get the diploma and get a good paying job
+- Tie back to gen alpha
+	- Seeing teachers as service providers is becoming the norm
+		- Teachers aren't being held to the ideal of guiding children, but is more like the conservative education that was common during the enlightenment
+		- Teachers have to please, students, parents and administrators
+	- People don't tend to look at the root problems in society, rather the social ramifications of them
+		- Capitalism is deteriorating education and the role of the educator, but all people see is that the younger generation is "worse" than the previous one
+			- People want to return to the old way of education to cure the symptoms
+			- "The response to capitalism's deterioration of the education system is conservatism"
+- New people
+	- Foucault
+	- Freire
+	- Bourdieu
+	- Passeron
+- Conservatism in education is the desire to uphold the current social order
+	- "As long as nothing disrupts its harmony, the system can, in some ways, escape history by confining itself to the role of producing its  reproducers in a cycle of eternal return, since it is paradoxically by ignoring requirements other than that of its own reproduction, that is best contributes to the reproduction of the social order" - Bourdieu and Passeron
+		- Schools under capitalism only reinforce current inequalities
+			- Kids with wealth are more likely to succeed than poor kids
