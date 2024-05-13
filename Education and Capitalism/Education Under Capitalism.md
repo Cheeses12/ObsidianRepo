@@ -78,4 +78,9 @@ Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
 		- Example is understanding that almost all climate scientists agree that the earth is warming due to human activity. This is like following the correct person through the art museum
 - There is a lack of trust now in education
 	- Students refuse to believe that they can be changed by their educators
-	- We have turned the relationship between the educato
+	- We have turned the relationship between the educator and educated into a transaction
+		- I show up in your class for X amount of time each week and you give me the pass to the future.
+			- Also students see the teacher as a medium between them and information
+		- Capitalism has promoted meritocracy where the people with merit have the authority and when you have an underpaid teacher, people don't associate that with merit
+- Education is operating under a conservative structure
+	- This struct
