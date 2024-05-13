@@ -63,4 +63,7 @@ Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
 	- School, work, military, prison
 		- These institutions help to create docile people who won't question the current status quo
 		- The education system shames those who are less fortunate than others
-			- Alice tells a story of a day when a calss
+			- Alice tells a story of a day when a classmate came to class late and the teacher said something along the lines of "Tsk using perfume to cover the fact that you haven't showered in a week." Everybody laughed because they were expected to and wanted to gain the recognition of the teacher.
+				- The classmate in question lived in a small apartment with a lot of siblings and didn't have time to take a shower and be on time for class
+		- School is a place for symbolic violence
+			- People who are different from the main group are shunned and made to feel unwelcome. This shame then creates obedience 
