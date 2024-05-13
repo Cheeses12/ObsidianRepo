@@ -24,10 +24,13 @@ completed: null
 
 # Topics
 ## Farming and Agriculture
+- [[Capitalism and Food Security]]
+- [[Capitalism and South African Agriculture]]
 ## Education
 - [[Education Under Capitalism]]
 - [[Education and Capitalism/Capitalism and American Education|Capitalism and American Education]]
 ## Energy
+- [[Capitalism is Unable to Solve Climate Change]]
 ## Medicine
 ## Politics
 
