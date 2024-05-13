@@ -26,4 +26,5 @@ Source: https://www.youtube.com/watch?v=IoHRAg9aVm8
 		- Standardized testing began to be the sole metric for the performance of a school
 			- Anything that didn't improve test scores was the first thing to get cut from school
 				- This includes the arts, free time, and after school programs
-- This urge to gut schooling systems has con
+- This urge to gut schooling systems has been consistent since then
+	- Policies like No Child Left Behind and Race to the Top
