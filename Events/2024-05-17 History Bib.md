@@ -10,7 +10,10 @@ completed: null
 ## Capital
 - Capital is the accumulation of wealth
 - Capital is money that circulates in a specific pattern
-	- Money that 
+	- Money that is used to buy something is just money
+		- Commodity - Money - Commodity
+	- Money that is used to buy something that is then sold again is called capital
+		- Money - Commodity - Money
 # Topics
 ## Farming
 Source 1:
