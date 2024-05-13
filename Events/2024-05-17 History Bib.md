@@ -21,6 +21,10 @@ completed: null
 - The means of production is physical components that go into work such as factory equipment and raw materials.
 ## Wage Labor
 - Wage Labor is the capability for a worker to sell their work as a commodity, the precondition for this being that the worker has no other way to survive.
+## Civic Liberalism
+- Liberalism is generally the ideology of the the urban bourgeois, a belief that one has individual autonomy and that should be safe from intrusion.
+## Economic Liberalism
+- Sometimes called Neo-Liberalism, is the id
 
 # Topics
 ## Farming and Agriculture
