@@ -11,3 +11,4 @@ completed: null
 ## Education
 ## Energy
 ## Fashion
+## Politics
