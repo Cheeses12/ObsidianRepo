@@ -15,4 +15,9 @@ Source: https://www.youtube.com/watch?v=IoHRAg9aVm8
 		- They are widely popular due to the massive amount of money at their disposal to create polished, easily digestible content
 			- The reason that they are still as successful as they are in spite of the large amount of criticism that is leveled at them is because they have lots of money and they don't challenge the status quo
 		- Their new venture is Prager U kids, where they start targeting kids at a younger and younger age
-- Florida is now allowing Prager U to be played in schools
+- Florida is now allowing Prager U to be played in schools, shortly followed by Oklahoma and Texas
+	- Thankfully, teachers are putting up a fight to the implementation of Prager U kids in schools
+	- The reason that this is worrying is because it most likely won't be an isolated case. It is a good look into the trajectory of American schooling
+- Looking back at the 80's and Reagan
+	- Book published called *A Nation At Risk: The Imperative for Educational Reform*
+		- The book goes into how the US is being overtaken in many aspects that it was once the best at and is looking specific
