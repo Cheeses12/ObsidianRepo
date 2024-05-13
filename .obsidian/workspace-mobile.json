@@ -76,18 +76,6 @@
             }
           },
           {
-            "id": "7a9ddd7698c0b158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitalism is Unable to Solve Climate Change.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "326dae77aa4dea9c",
             "type": "leaf",
             "state": {
@@ -235,12 +223,13 @@
   },
   "active": "6ce21e5fbf7188d5",
   "lastOpenFiles": [
-    "Capitalism is Unable to Solve Climate Change.md",
-    "Events/2024-05-17 History Bib.md",
-    "Oil and Capitalism",
     "Education and Capitalism/Education Under Capitalism.md",
-    "Agriculture and Capitalism/Capitalism and Food Security.md",
+    "Events/2024-05-17 History Bib.md",
     "Agriculture and Capitalism/Capitalism and South African Agriculture.md",
+    "Agriculture and Capitalism/Capitalism and Food Security.md",
+    "Israel and Palestine/Balfour Declaration.md",
+    "Capitalism is Unable to Solve Climate Change.md",
+    "Oil and Capitalism",
     "Agriculture and Capitalism",
     "Education and Capitalism/Capitalism and American Education.md",
     "README.md",
@@ -264,7 +253,6 @@
     "US and Europe/The Marshall Plan.md",
     "US and Europe/NATO.md",
     "US and Europe/Bretton Woods Agreement.md",
-    "US and Europe/Warsaw Pact.md",
     "US and Europe",
     "Events",
     "/US and Europe",

@@ -29,8 +29,8 @@ completed: null
 ## Education
 - [[Education Under Capitalism]]
 - [[Education and Capitalism/Capitalism and American Education|Capitalism and American Education]]
-## Energy
-- [[Capitalism is Unable to Solve Climate Change]]
+## Oil
+- 
 ## Medicine
 ## Politics
 
