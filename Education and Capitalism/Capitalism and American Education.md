@@ -32,4 +32,6 @@ Source: https://www.youtube.com/watch?v=IoHRAg9aVm8
 		- This means revising curriculums to remove anything that may make the US look bad
 	- The *Nation at Risk* Report also placed the blame of the poor performance of schools on teachers
 		- Teachers became the scapegoat our our failing educational system
-- If the sole imperative in a system 
+- If the sole imperative in a system is profit, what use is education if it doesn't produce the maximum number of workers that can be exploited
+- Quick summary of industrial revolution
+	- As feudalism gives way to capitalism, there is a new in between class of merchants who now have upward mobility, they set up factories and bring everyone from the country side into the city to run these factories. This makes the people who run the factories a lot of money. Workers demand higher wages, and in response, the factory owners hyperspecialize the jobs (assembly line ish). No single person can produce the full product. This allows lower pay and they workers can now more easily be fired as it is easier to tr
