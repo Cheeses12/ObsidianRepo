@@ -71,7 +71,7 @@ Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
 	- The student is passively receiving everything that the all-powerful educator is saying
 		- This view of education doesn't liberate the student or produce critical thinking, instead, it reproduces the current social order
 			- The way to create the best learning environment is to set up a dialogue between the student and the educator where it is understood that the educator can learn from the student.
-	- "When education is not liberating, the dream of the oppressed is to be the oppressor"
+	- "When education is not liberating, the dream of the oppressed is to be the oppressor."
 - One thing that contributes to the issue is that gentle parenting means that there is no authority or structure in the child's life
 - One French philosopher stated that accepting authority and having someone who absolutely knows better than you is liberating
 	- Comparison to museum guide. People follow the guide, stop when they stop, are quite when they are talking. They do this because there is an understanding that the guide will provide information that will "free" them.
