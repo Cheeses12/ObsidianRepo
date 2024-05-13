@@ -34,4 +34,10 @@ Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
 					- he did not test for how well they would be able to legislate, but rather, they were tested on important parts of the society
 						- Culture, literature, sciences
 				- Rich people can still game the system as always
-- The thing that drives our cur
+- The thing that drives our current educational system is the protestant ethic
+	- The idea that we have one sole purpose in life and education is the ticket to that
+	- We see education as a commodity or service
+		- If we buy the education, we will grow to be successful and wealthy
+	- "Teaching is a service bought by students with a set of expectations"
+	- The student isn't pursuing education for self improvement 
+		- Students pursue education so the teacher will teach the curriculum and 
