@@ -10,3 +10,4 @@ completed: null
 ## Farming
 ## Education
 ## Energy
+## Fashion
