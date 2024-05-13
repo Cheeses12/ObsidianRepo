@@ -8,4 +8,5 @@ completed: null
 ---
 # Topics
 ## Farming
-## 
+## Education
+## Energy
