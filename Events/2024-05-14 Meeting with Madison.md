@@ -24,3 +24,4 @@ completed: null
 	- short header pins
 		- in blue digikey bags
 			- 1x4 and 1x7
+- BE CAREFUL WITH SWITCHES
