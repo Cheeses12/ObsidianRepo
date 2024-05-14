@@ -22,4 +22,5 @@ completed: null
 	- switch
 	- stemma Qt cable
 	- short header pins
-		- in blue digikey 
+		- in blue digikey bags
+			- 1x4 and 1x7
