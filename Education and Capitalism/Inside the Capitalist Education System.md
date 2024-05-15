@@ -34,4 +34,5 @@ Summary: Notes on the article Inside the Capitalist Education System
 	- It teaches children how to be good fuel for capitalism
 		- Respect authority over all else, even your own needs
 			- Arcane bathroom rules
-		- Instill in young people th
+		- Instill in young people the ideals of individualism
+		- Teach children about American supremecy
