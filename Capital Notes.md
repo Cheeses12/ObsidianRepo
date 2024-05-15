@@ -58,5 +58,11 @@ Source: https://youtu.be/yxDpF3XqpV4?si=YQhd3MYp0t7QfFa9
 - Labor power is the sum of all mental and physical capabilities in a human
 	- Exercised when a laborer produces a use value
 - Every person owns their own labor power and can sell it as they see fit
-- When a person is fr
+- When a person is free to sell their own labor power, they are truly free
+- The labor market and accumulation of capital is not common across history
+- The cost of labor is determined by exchange value
+	- The socially necessary time to do work, prepare for work, and recover from work
+		- If you have to spend years studying for a job, that will be factored in
+		- If the job is physically demanding and takes lots of time to recover from, that will also be factored in
+		- "th"
 #apgov 
