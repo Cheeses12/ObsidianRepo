@@ -33,7 +33,7 @@ completed: null
 
 # Topic
 - [[Education Under Capitalism]] (look at sources)
-- [[Education and Capitalism/Capitalism and American Education|Capitalism and American Education]] (look at sources)
+- [[Capitalism and American Education|Capitalism and American Education]] (look at sources)
 - [[Capital Notes]]
 
 ```dataview

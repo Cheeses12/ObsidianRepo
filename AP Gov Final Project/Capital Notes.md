@@ -1,7 +1,7 @@
 ---
 Type: Notes
 Summary: Notes on a Summary of Capital by Marx
-Source: https://youtu.be/yxDpF3XqpV4?si=YQhd3MYp0t7QfFa9
+Source: "*Das Kapital*"
 ---
 # Value
 - A commodity is a physical object that is able to satisfy human need
