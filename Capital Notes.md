@@ -35,5 +35,22 @@ Source: https://youtu.be/yxDpF3XqpV4?si=YQhd3MYp0t7QfFa9
 	- Two equally valuable items are those which take the same amount of labor time to create
 - Things can have use value without having value
 # Formula of Capital
-
+- All capital is money but not all money is capital
+	- Money is CMC while capital is MCM
+		- The commodity that workers sell is their labor power
+- First step is going from money to commodity
+	- You take money and buy something with it
+- Next step is taking the commodity and selling it again
+- The motivation in the MCM circuit is to end up with more money
+	- You take the item you buy and you exchange it for more than you bought it for
+	- The circuit is more accurately described by MCM' where M' = M + S
+		- S is know as surplus value, value that was not initially present when the capitalist bought the commodity
+		- You can perform this indefinitely
+# Contradictions in The Formula of Capital
+- Where does surplus value even come from
+- When the capitalist buys something, there person that they bought it from sees it only as selling and there person who buys the item from the capitalist only sees it as buying
+- Exchanging two in equivalent items does not create surplus value
+# The Sale and Purchase of Labor Power
+- Surplus value comes from the sale and purchase of labor power
+- The only place where surplus value can come from is the C part of MCM
 #apgov 
