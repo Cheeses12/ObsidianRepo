@@ -25,4 +25,9 @@ Source: https://youtu.be/yxDpF3XqpV4?si=YQhd3MYp0t7QfFa9
 	- Things only have value because there was human work done to create them
 		- Using an ax as an example
 			- With out human labor, everything would still be raw materials. The handle would still be a tree and the raw iron ore would still be in the ground
-		- 
+	- Measured by duration
+	- Quantified by average time to complete a task
+		- Labor time that is socially necessary to bring about the creation of an object
+		- Unskilled workers who take longer to complete a certain task don't get paid more because it takes longer
+		- Example with weavers
+			- When the loom was introduced, the time that it took to create a certain amount of cloth was cut in half. Because of this, the people who didn't switch, had their wages cut in about half.
