@@ -32,12 +32,7 @@ completed: null
 - A mode of production is a novel and distinct way that goods are produced.
 
 # Topic
-- [[Education Under Capitalism]] (look at sources)
-- [[Capitalism and American Education|Capitalism and American Education]] (look at sources)
-- [[Capital Notes]]
 
 ```dataview
-TABLE source where contains(file.tags, "apgov")
+TABLE source as "Source", summary as "Summary" where contains(file.tags, "apgov")
 ```
-
-#marx
