@@ -53,4 +53,5 @@ Source: https://youtu.be/yxDpF3XqpV4?si=YQhd3MYp0t7QfFa9
 # The Sale and Purchase of Labor Power
 - Surplus value comes from the sale and purchase of labor power
 - The only place where surplus value can come from is the C part of MCM
+	- Something has to happen to the commodity to add surplus value to it
 #apgov 
