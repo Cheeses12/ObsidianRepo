@@ -53,4 +53,10 @@ Source: https://youtu.be/yxDpF3XqpV4?si=YQhd3MYp0t7QfFa9
 # The Sale and Purchase of Labor Power
 - Surplus value comes from the sale and purchase of labor power
 - The only place where surplus value can come from is the C part of MCM
+- Capitalists employ people to use their labor on the commodity
+	- This increases the value of the commodity
+- Labor power is the sum of all mental and physical capabilities in a human
+	- Exercised when a laborer produces a use value
+- Every person owns their own labor power and can sell it as they see fit
+- When a person is fr
 #apgov 
