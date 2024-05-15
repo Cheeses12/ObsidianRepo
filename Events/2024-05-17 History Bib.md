@@ -25,6 +25,8 @@ completed: null
 - Liberalism is generally the ideology of the the urban bourgeois, a belief that one has individual autonomy and that should be safe from intrusion.
 ## Economic Liberalism
 - Sometimes called Neo-Liberalism, is the ideology that there should be no regulations on the economy or the economic activities of the capitalists. This activity is often called laissez faire capitalism.
+## Mode of Production
+- A mode of production is a novel and distinct way that material good are produced
 
 # Topics
 ## Education
