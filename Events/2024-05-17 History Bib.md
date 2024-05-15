@@ -31,8 +31,6 @@ completed: null
 ## Mode of Production
 - A mode of production is a novel and distinct way that goods are produced.
 
-## 
-
 # Topic
 - [[Education Under Capitalism]] (look at sources)
 - [[Education and Capitalism/Capitalism and American Education|Capitalism and American Education]] (look at sources)
