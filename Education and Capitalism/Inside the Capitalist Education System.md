@@ -38,3 +38,5 @@ Summary: Notes on the article Inside the Capitalist Education System
 		- Instill in young people the ideals of individualism
 		- Teach children about American supremacy
 		- Teach children the supposed unquestionable power of capital
+		- Since No Child Left Behind, the Military has unfettered access to students
+		- Research has shown that large cooperations make large donations to  
