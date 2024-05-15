@@ -64,5 +64,14 @@ Source: https://youtu.be/yxDpF3XqpV4?si=YQhd3MYp0t7QfFa9
 	- The socially necessary time to do work, prepare for work, and recover from work
 		- If you have to spend years studying for a job, that will be factored in
 		- If the job is physically demanding and takes lots of time to recover from, that will also be factored in
-		- "th"
+		- "The value of labor-power resolves itself into the value of a definite quantity of the means of subsistence."
+# Production of Surplus Value
+- Labor power is a commodity that is sold on the market just like any other commodity
+	- In order for it to be a commodity, the labor has to create something that has use value
+- Three Parts in labor
+	1. The actual labor its self, the thing that you do
+	2. The raw materials that are being worked on
+	3. Tools with which the work is done
+- 2 and three are both the means of production
+	- Except for things that are from nature, the means of production are things that are already filtered through the process of labor
 #apgov 
