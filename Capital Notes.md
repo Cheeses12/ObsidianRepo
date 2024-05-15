@@ -74,4 +74,10 @@ Source: https://youtu.be/yxDpF3XqpV4?si=YQhd3MYp0t7QfFa9
 	3. Tools with which the work is done
 - 2 and three are both the means of production
 	- Except for things that are from nature, the means of production are things that are already filtered through the process of labor
+- When a product enters the process as a means of production, it loses its character as a product and becomes a factor in the process
+	- After a hammer is bought from the store to be used by a construction company, it lost its title as a product and is now a factor in the process
+- This system has two conditions
+	1. The worker is under full control of the capitalist
+		- They are working for the capitalist and not themselves
+	2. The product of the labor (ie. the thing that is sold) does not belong 
 #apgov 
