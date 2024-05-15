@@ -59,8 +59,12 @@
             "id": "f13102ae7c9f7e09",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Capital Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -76,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Education and Capitalism/Education Under Capitalism.md",
+            "file": "Capital Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -159,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Education and Capitalism/Education Under Capitalism.md",
+            "file": "Capital Notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -171,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Education and Capitalism/Education Under Capitalism.md"
+            "file": "Capital Notes.md"
           }
         }
       },
@@ -197,8 +201,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "6ce21e5fbf7188d5",
+  "active": "f13102ae7c9f7e09",
   "lastOpenFiles": [
+    "Events/2024-05-17 History Bib.md",
+    "Capital Notes.md",
+    "Education and Capitalism/Education Under Capitalism.md",
+    "Events/2024-05-16 11.9 Webassign.md",
     "Education and Capitalism/Inside the Capitalist Education System.md",
     "/Events/2024-05-17 History Bib.md",
     "/Events/2024-05-14 Meeting with Madison.md",
@@ -210,8 +218,6 @@
     "/Education and Capitalism/Capitalism and American Education.md",
     "Education and Capitalism/Pedagogy of the Oppressed.md",
     "/Events/2024-05-13 Coding.md",
-    "Events/2024-05-17 History Bib.md",
-    "Education and Capitalism/Education Under Capitalism.md",
     "Education and Capitalism/Capitalism and American Education.md",
     "Agriculture and Capitalism/Capitalism and South African Agriculture.md",
     "Agriculture and Capitalism/Capitalism and Food Security.md",
@@ -227,8 +233,6 @@
     "Book List.md",
     "Education and Capitalism",
     "/Education and Capitalism",
-    "Events/2024-05-14 Meeting with Madison.md",
-    "Events/2024-05-13 English Reading.md",
     "US and Europe",
     "Events",
     "/US and Europe",
