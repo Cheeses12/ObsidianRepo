@@ -5,23 +5,17 @@ Source: https://www.researchgate.net/publication/270640761_The_Key_Contradiction
 ---
 NOTE: THE FOLLOWING IS THE PAPER VERBATUM
 
-**THE KEY CONTRADICTION IN CAPITALIST SYSTEM**
+# **THE KEY CONTRADICTION IN CAPITALIST SYSTEM**
 
 by Bruno Jossa
-
 Department of Political Economy
-
 University of Naples “Federico II”
-
 16, via Mezzocannone
-
 80132, NAPOLI, ITALY
-
 Mailing Address: Bruno Jossa, via Giacomo Piscicelli, 77-80121 Napoli;
-
 E-MAIL: [bruiossa@unina.it](mailto:bruiossa@unina.it)
 
-**Abstract**
+## **Abstract**
 
 Which is the fundamental contradiction of capitalism: the capital-labour polarity or the contrast between socialised production and private appropriation? Those looking on the capital-labour polarity as the main contradiction will argue that socialism arises when the passage from a system controlled by capital owners to a system of worker-run firms sparks off the reversal of the usual capital-labour relation. Conversely, those who think that the key contradiction of capitalism is the contrast between socialised production and private appropriation will contend that the social order to rise from the ashes of capitalism is a centrally planned system.
 
@@ -31,9 +25,7 @@ This paper reports arguments in support of the former option.
 
 **JEL codes: P13, P2, J54**
 
-**THE KEY CONTRADICTION IN CAPITALIST SYSTEMS**
-
-**1. Introduction** 
+## **1. Introduction** 
 
 In economics, the term ‘revolution’ (in the way a society is organised) designates a change in the production mode. This was certainly the view of Marx, the great theoretician of modes of production and the way they arise, grow and die (in this connection, see McQuarie and Amburgey 1978); and it is also the opinion of anyone prepared to admit that different production modes are possible and that socialism is an alternative to the capitalistic production mode.[[1]](#_ftn1) Ever since the earliest formulation of the market socialism theory (following the so-called 'debate of the 'thirties'), the claim that socialism is a possible new social organisation mode has never been called into question either by those who look upon it as an advancement or those who rate it as an evil.
 
@@ -57,7 +49,7 @@ As far as the alternative type of revolution is concerned, it has been proved wr
 
 Whereas most Marxists are sure to rate my conclusions as heterodox, I reckon that they perfectly suit the aim of this paper, which is not to analyse Marx's actual theoretical approach, but to suggest a possible modern-day interpretation of Marxism.
 
-**2. The Labour Managed Firm**
+## **2. The Labour Managed Firm**
 
 In Vanek’s theoretical approach (1971a and 1971b), the ‘pure’ self-managed firm (LMF) is defined as a labour managed firm which funds its investments solely with loan capital and segregates capital incomes from incomes from work. In point of fact, this type of cooperative may opt for self-financing if the members pass majority resolutions to this effect, but in this case, (given the need to keep earned incomes apart from capital incomes) the members must be entitled to receive bonds in the value of the earnings that would otherwise have been distributed to them**.**
 
@@ -81,7 +73,7 @@ The ownership issue is extensively covered in a considerable body of literature 
 
 In conclusion, as socialist systems are typified by publicly-owned production means by definition, our analysis of the ownership issue supports the claim that the introduction of labour management gives rise to socialism.[[6]](#_ftn6) 
 
-**3. The Key Contradiction of Capitalistic Systems.**
+## **3. The Key Contradiction of Capitalistic Systems.**
 
 Besides discussing the active function of thought as the faculty allowing man not only to contemplate nature and society, but to act upon them and work towards change, in _Theses on Feuerbach_ Marx made it clear that the precondition for changing and advancing society was solving its inherent contradictions. This may explain why we deem it important to identify the most glaring contradiction of capitalism from a Marxist perspective.
 
@@ -111,7 +103,7 @@ The question, then, is: are these two contradictions really antithetical?
 
 Before we try to answer this question, it is worth examining a ‘querelle’ between Godelier and Sève which may shed further light on the subject of this paper.  
 
-**4. A ‘quarrell’ between Godelier and Sève**
+## **4. A ‘quarrell’ between Godelier and Sève**
 
 Describing Marx’s analysis of the contradictions of capitalism as a rigorous scientific approach founded on a sound distinction between economic science and ideology, the structuralist Maurice Godelier claimed that the main contradiction is not the capital-labour opposition. This contradiction – he argued – is internal to capitalistic production relations and specific to capitalism and, due to its specificity, it necessarily connotes the system right from its onset and reproduces itself incessantly, as long as capitalism exists.
 
@@ -127,7 +119,7 @@ From Sève’s perspective, Godelier’s mistake is to have ignored such a cruci
 
 The conclusion I may draw from this debate is that the main point of the matter is which of these two main contradictions – the capital-labour conflict or the plan-market opposition – will reach maturity in due time.
 
-**5. On the Dynamics of the Plan-Market Contradiction**
+## **5. On the Dynamics of the Plan-Market Contradiction**
 
 As mentioned above, according to orthodox Marxists the revolution sparked off by a mounting conflict between socialised production and private distribution is the adoption of central planning.  
 
