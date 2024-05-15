@@ -1,8 +1,8 @@
 ---
 title: History Bib
 allDay: false
-startTime: 13:00
-endTime: 13:30
+startTime: 23:30
+endTime: 12:00
 date: 2024-05-17
 completed: null
 ---
@@ -17,6 +17,9 @@ completed: null
 ## Capitalism
 - A system defined by the private ownership of the means of production and the exploitation of the working class.
 - A system where there is private ownership of the means of production and there is an exploitation of wage labor
+### Capitalists
+- A capitalists is the person that owns and controls the means of production.
+- Often called the bourgeoisie
 ## Means of Production 
 - The means of production is physical components that go into work such as factory equipment and raw materials.
 ## Wage Labor
@@ -25,20 +28,15 @@ completed: null
 - Liberalism is generally the ideology of the the urban bourgeois, a belief that one has individual autonomy and that should be safe from intrusion.
 ## Economic Liberalism
 - Sometimes called Neo-Liberalism, is the ideology that there should be no regulations on the economy or the economic activities of the capitalists. This activity is often called laissez faire capitalism.
+## Mode of Production
+- A mode of production is a novel and distinct way that goods are produced.
 
-# Topics
-## Farming and Agriculture
-- [[Capitalism and Food Security]]
-- [[Capitalism and South African Agriculture]]
+## 
+
+# Topic
 ## Education
 - [[Education Under Capitalism]] (look at sources)
 - [[Education and Capitalism/Capitalism and American Education|Capitalism and American Education]] (look at sources)
-## Oil
-- 
-## Medicine
-- 
-## Politics
-- 
 
 ```dataview
 TABLE where contains(file.tags, "apgov") 
