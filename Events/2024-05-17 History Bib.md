@@ -2,7 +2,7 @@
 title: History Bib
 allDay: false
 startTime: 23:30
-endTime: 12:00
+endTime: 23:59
 date: 2024-05-17
 completed: null
 ---
