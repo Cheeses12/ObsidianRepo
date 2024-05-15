@@ -25,3 +25,5 @@ Summary: Notes on the article Inside the Capitalist Education System
 	- Once the student gets to college, the stress doesn't abate
 		- Depression rate in one college in the UK is at 21%
 			- Double the national average
+		- In many developed countries, suicide is the second leading factor in death in children ages 10 to 17
+			- In South Korea
