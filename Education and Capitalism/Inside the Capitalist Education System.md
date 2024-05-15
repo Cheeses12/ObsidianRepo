@@ -28,3 +28,6 @@ Summary: Notes on the article Inside the Capitalist Education System
 	- In many developed countries, suicide is the second leading factor in death in children ages 10 to 17
 		- In South Korea, the emotions that many teens attribute to are hopelessness, social isolation, depression, and high expectations.
 			- All of these are emotions relating to education under capitalism
+	- Creating a system that prioritizes grades over all else and judges how good or bad people are removes what makes people unique and special
+- Indoctrination
+	- Public s
