@@ -3,6 +3,7 @@ Type: Notes
 Summary: Notes on a Summary of Capital by Marx
 Source: https://youtu.be/yxDpF3XqpV4?si=YQhd3MYp0t7QfFa9
 ---
+# Value
 - A commodity is a physical object that is able to satisfy human need
 	- Traded for things of equal value 
 	- Commodities only have value because of their relationship to humans
@@ -31,3 +32,8 @@ Source: https://youtu.be/yxDpF3XqpV4?si=YQhd3MYp0t7QfFa9
 		- Unskilled workers who take longer to complete a certain task don't get paid more because it takes longer
 		- Example with weavers
 			- When the loom was introduced, the time that it took to create a certain amount of cloth was cut in half. Because of this, the people who didn't switch, had their wages cut in about half.
+	- Two equally valuable items are those which take the same amount of labor time to create
+- Things can have use value without having value
+# Formula of Capital
+
+#apgov 
