@@ -41,6 +41,4 @@ Summary: Notes on the article Inside the Capitalist Education System
 		- Since No Child Left Behind, the Military has unfettered access to students
 		- Research has shown that large cooperations make large donations to education programs that support their world view
 			- BP and Shell donating to schools that paint a good picture of oil.
-- Exam Boards
-	- Participants in the education system (teachers and students) all suffer due to these exams
-	- 
+#apgov 
