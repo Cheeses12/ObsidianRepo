@@ -22,3 +22,6 @@ Summary: Notes on the article Inside the Capitalist Education System
 			- Blurred vision
 			- Muscle pain with no clear cause
 			- Headaches
+	- Once the student gets to college, the stress doesn't abate
+		- Depression rate in one college in the UK is at 21%
+			- Double the national average
