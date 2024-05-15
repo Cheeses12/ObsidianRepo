@@ -35,8 +35,9 @@ completed: null
 - [[Education Under Capitalism]] (look at sources)
 - [[Education and Capitalism/Capitalism and American Education|Capitalism and American Education]] (look at sources)
 - [[Capital Notes]]
+
 ```dataview
-TABLE where contains(file.tags, "apgov") 
+TABLE source where contains(file.tags, "apgov")
 ```
 
 #marx
