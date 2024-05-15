@@ -41,3 +41,4 @@ Source: https://www.youtube.com/watch?v=IoHRAg9aVm8
 	- 80% of jobs in the US are a part of the service industry
 	- In an economy based on consumption there isn't the same need to have a well funded education system.
 		- If you need someone to fulfil a niche role, you can simply take someone from a private school
+#apgov 

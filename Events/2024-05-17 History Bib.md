@@ -27,18 +27,9 @@ completed: null
 - Sometimes called Neo-Liberalism, is the ideology that there should be no regulations on the economy or the economic activities of the capitalists. This activity is often called laissez faire capitalism.
 
 # Topics
-## Farming and Agriculture
-- [[Capitalism and Food Security]]
-- [[Capitalism and South African Agriculture]]
 ## Education
 - [[Education Under Capitalism]] (look at sources)
 - [[Education and Capitalism/Capitalism and American Education|Capitalism and American Education]] (look at sources)
-## Oil
-- 
-## Medicine
-- 
-## Politics
-- 
 
 ```dataview
 TABLE where contains(file.tags, "apgov") 
