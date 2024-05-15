@@ -11,4 +11,14 @@ Summary: Notes on the article Inside the Capitalist Education System
 			2. Indirectly
 				- Colleges will be selective in who they let in, creating both the illusion of scarcity and the illusion of prestige
 	- Because the only factor that determines your success moving from high school to college is grades, a lot of stress is put on young children to achieve high grades. 
-		- The number of young people calling helplines due to stress in the UK has increased 
+		- The number of young people calling helplines due to stress in the UK has increased 323% from 2004 to 2017
+		- Prolonged exposure to stress can seriously impact the lives of young people. Symptoms include:
+			- Constant fatigue
+			- Forgetfulness
+			- Poor appetite
+			- Social withdrawal
+				- This has other implications
+			- Increased heart rate
+			- Blurred vision
+			- Muscle pain with no clear cause
+			- Headaches
