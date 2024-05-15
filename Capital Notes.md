@@ -16,4 +16,13 @@ Source: https://youtu.be/yxDpF3XqpV4?si=YQhd3MYp0t7QfFa9
 		- Without a person to use a glass, it has no value.
 	- Exchange value
 		- Value created by humans for an object
+		- Influenced by quantity of the object available
+			- If more people wat a limited supply of something, the value will increase
+			- Ultimate comparison is to labor
 	- Value
+		- How we experience value in reality
+- Labor time
+	- Things only have value because there was human work done to create them
+		- Using an ax as an example
+			- With out human labor, everything would still be raw materials. The handle would still be a tree and the raw iron ore would still be in the ground
+		- 
