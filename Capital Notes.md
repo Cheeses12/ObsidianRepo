@@ -79,5 +79,8 @@ Source: https://youtu.be/yxDpF3XqpV4?si=YQhd3MYp0t7QfFa9
 - This system has two conditions
 	1. The worker is under full control of the capitalist
 		- They are working for the capitalist and not themselves
-	2. The product of the labor (ie. the thing that is sold) does not belong 
+	2. The product of the labor (ie. the thing that is made) does not belong to the worker, it belongs to the capitalist
+- You can look at a product and break it down into any time labor power was spent on it to determine its value
+- The capitalist own the means of production (mp) and the labor power (lp) and uses them to create a commodity (m')
+	- This process imbues the commodity with more value than it started with, but since the capitalist owns the means of production and anything that is produced using those means of production
 #apgov 
