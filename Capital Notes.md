@@ -82,5 +82,6 @@ Source: https://youtu.be/yxDpF3XqpV4?si=YQhd3MYp0t7QfFa9
 	2. The product of the labor (ie. the thing that is made) does not belong to the worker, it belongs to the capitalist
 - You can look at a product and break it down into any time labor power was spent on it to determine its value
 - The capitalist own the means of production (mp) and the labor power (lp) and uses them to create a commodity (m')
-	- This process imbues the commodity with more value than it started with, but since the capitalist owns the means of production and anything that is produced using those means of production
+	- This process imbues the commodity with more value than it started with, but since the capitalist owns the means of production and anything that is produced using those means of production, they are the ones that benefit off of the work done by the laborer.
+	- The only way that the capitalist profits is if the laborer adds more value to the commodity than they are paid for
 #apgov 
