@@ -31,9 +31,9 @@ completed: null
 ## Mode of Production
 - A mode of production is a novel and distinct way that goods are produced.
 
-# Topic
+# Sources
 
 ```dataview
-TABLE source as "Source", summary as "Summary" where contains(file.tags, "apgov") and from #willUse
+TABLE source as "Source", summary as "Summary" where contains(file.tags, "apgov") and contains(file.tags, "#willUse")
 ```
 #assignment 
