@@ -36,4 +36,7 @@ completed: null
 ```dataview
 TABLE source as "Source", summary as "Summary" where contains(file.tags, "apgov") and contains(file.tags, "#willUse")
 ```
+# Citations
+- Marx, Karl. *Das Kapital.* Progress Publishers, 1887, Moscow.
+- Cli
 #assignment 

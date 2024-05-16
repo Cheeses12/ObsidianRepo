@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "c23dc4f97401696b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Remote Sync/Events/2024-05-17 History Bib.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "736bfdfecd1cb7e8",
             "type": "leaf",
             "pinned": true,
@@ -27,6 +39,18 @@
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "d0c58135cdb7812d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Remote Sync/Events/2024-05-17 History Bib.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -96,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Remote Sync/Home.md",
+            "file": "Remote Sync/Events/2024-05-17 History Bib.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Remote Sync/Home.md",
+            "file": "Remote Sync/Events/2024-05-17 History Bib.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Remote Sync/Home.md"
+            "file": "Remote Sync/Events/2024-05-17 History Bib.md"
           }
         }
       },
@@ -160,12 +184,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "736bfdfecd1cb7e8",
+  "active": "c23dc4f97401696b",
   "lastOpenFiles": [
-    "Remote Sync/School/Education Under Capitalism.md",
-    "Remote Sync/School/How Capitalism is a Driving Force of Climate Change.md",
     "Remote Sync/Home.md",
-    "Remote Sync/School/Capital Notes.md",
+    "Remote Sync/School/AP Gov/Final Project/Citations.md",
+    "Remote Sync/School/AP Gov/Final Project",
+    "Remote Sync/Events/2024-05-17 History Bib.md",
+    "Remote Sync/School/AP Gov",
+    "Remote Sync/School/AP Gov/Final Project/Education Under Capitalism.md",
+    "Remote Sync/School/AP Gov/Final Project/How Capitalism is a Driving Force of Climate Change.md",
+    "Remote Sync/School/AP Gov/Final Project/Capital Notes.md",
     "Home Mobile.md",
     "Remote Sync",
     "Remote Sync/Events/2024-05-21 HRT TIME.md",
@@ -173,14 +201,14 @@
     "Remote Sync/Personal",
     "Remote Sync/Personal/International Monetary Fund.md",
     "Remote Sync/Events",
-    "Remote Sync/School/The Key Contradiction in Capitalist System Notes.md",
+    "Remote Sync/School/AP Gov/Final Project/The Key Contradiction in Capitalist System Notes.md",
     "Remote Sync/Personal/On Contradiction Notes.md",
-    "Remote Sync/School/Is Capitalism Causing Climate Change Notes.md",
-    "Remote Sync/School/Is Capitalism Bad for Workers Notes.md",
+    "Remote Sync/School/AP Gov/Final Project/Is Capitalism Causing Climate Change Notes.md",
+    "Remote Sync/School/AP Gov/Final Project/Is Capitalism Bad for Workers Notes.md",
     "Remote Sync/Personal/Pedagogy of the Oppressed.md",
-    "Remote Sync/School/Inside the Capitalist Education System.md",
-    "Remote Sync/School/Capitalism and American Education.md",
-    "Remote Sync/School/Capitalism the Good, the Bad, and the Ugly.md",
+    "Remote Sync/School/AP Gov/Final Project/Inside the Capitalist Education System.md",
+    "Remote Sync/School/AP Gov/Final Project/Capitalism and American Education.md",
+    "Remote Sync/School/AP Gov/Final Project/Capitalism the Good, the Bad, and the Ugly.md",
     "Remote Sync/README (1).md",
     "Remote Sync/Personal/Warsaw Pact.md",
     "Remote Sync/Personal/The Marshall Plan.md",
@@ -189,14 +217,10 @@
     "Remote Sync/Personal/Bretton Woods Agreement.md",
     "Remote Sync/Personal/Torries (1).md",
     "Remote Sync/Personal/Magic Games (1).md",
-    "Remote Sync/Personal/Zionists.md",
-    "Remote Sync/Personal/Zionism.md",
     "Oil and Capitalism",
     "Agriculture and Capitalism",
     "Education and Capitalism",
     "/Education and Capitalism",
-    "US and Europe",
-    "Remote Sync/Events",
     "Israel and Palestine/Pasted image 20240510174001.png",
     "Israel and Palestine/Pasted image 20240510235357.png",
     "/Israel and Palestine/Pasted image 20240510235357.png",
