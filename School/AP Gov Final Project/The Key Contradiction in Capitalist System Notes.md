@@ -426,3 +426,4 @@ Among those who look upon the antagonism between capitalists as a class and work
 
 [[12]](#_ftnref12) The suggestion that well-educated and skilled workers, rather than working for an external entrepreneur, will tend to pool their abilities and establish a firm of their own is also found in Ben Ner (1988, p. 297).
 #apgov 
+#willUse 

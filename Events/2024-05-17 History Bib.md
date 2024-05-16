@@ -34,6 +34,6 @@ completed: null
 # Topic
 
 ```dataview
-TABLE source as "Source", summary as "Summary" where contains(file.tags, "apgov")
+TABLE source as "Source", summary as "Summary" where contains(file.tags, "apgov") and 
 ```
 #assignment 
