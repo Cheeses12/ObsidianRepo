@@ -36,7 +36,13 @@ completed: null
 ```dataview
 TABLE source as "Source", summary as "Summary" where contains(file.tags, "apgov") and contains(file.tags, "#willUse")
 ```
-# Citations
+# Annotated Bib
 - Marx, Karl. *Das Kapital.* Progress Publishers, 1887, Moscow.
-- Cli
-#assignment 
+	- In *Das Kapital,* Marx outlines his ideals when it comes to the economy. He first starts by defining value and how it is related to labor. He then goes onto describe how money and capital flow through an economy. Building in this, he then describes how this flow of Capital and value extraction is the root cause of exploitation. The main theory that Marx brings up in this book is the labor theory of value, which is that the value of an object is the exchange value of a commodity is based, in its entirety, on the amount of labor that went into its creation.
+	- *Das Kapital* is the foundational document for all other 
+- Climate Science. "Capitalism: The Good, the Bad and the Ugly." Climate Science, 30 Sept. 2022, https://climatescience.org/advanced-capitalism-climate.
+- Jossa, Bruno. "The Key Contradiction in Capitalist System." *Research Gate,* July 2013, https://www.researchgate.net/publication/270640761_The_Key_Contradiction_in_Capitalist_System.
+- Pollock, Lauren. "How Capitalism Is a Driving Force of Climate Change." *PIT Journal,* https://pitjournal.unc.edu/2022/12/24/how-capitalism-is-a-driving-force-of-climate-change/
+- Simmons, Lee. "Is Capitalism Bad for Workers?" *Stanford Graduate School of Business,* Stanford, 7 June 2017, https://www.gsb.stanford.edu/insights/capitalism-bad-workers
+- Waugh, Chris. "Is Capitalism Causing Climate Change?" *Global Social Challenges,* Manchester, 7 July 2022, https://sites.manchester.ac.uk/global-social-challenges/2022/07/07/is-capitalism-causing-climate-change/.
+ #assignment 
