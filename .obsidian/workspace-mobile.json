@@ -8,25 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f13102ae7c9f7e09",
+            "id": "f7e0d8263943ebc2",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "staged": false,
-                "file": "Capital Notes.md"
-              }
+              "type": "full-calendar-view",
+              "state": {}
             }
           },
           {
-            "id": "ecf1559cabdbea75",
+            "id": "736bfdfecd1cb7e8",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "staged": false,
-                "file": "conflict-files-obsidian-git.md"
-              }
+                "file": "Remote Sync/Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
@@ -55,7 +55,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#housekeeping",
+            "query": "tag:#apgov",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -96,6 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Remote Sync/Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,6 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Remote Sync/Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +124,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Remote Sync/Home.md"
+          }
         }
       },
       {
@@ -152,50 +156,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "6d6a2d1c08d32c7d",
+  "active": "736bfdfecd1cb7e8",
   "lastOpenFiles": [
-    "The Key Contradiction in Capitalist System Notes.md",
-    "On Contradiction Notes.md",
-    "Is Capitalism Causing Climate Change Notes.md",
-    "Is Capitalism Bad for Workers Notes.md",
-    "How Capitalism is a Driving Force of Climate Change.md",
-    "Pedagogy of the Oppressed.md",
-    "Inside the Capitalist Education System.md",
-    "Education Under Capitalism.md",
-    "Capitalism and American Education.md",
-    "Capitalism the Good, the Bad, and the Ugly.md",
-    "Capital Notes.md",
-    "README (1).md",
-    "Warsaw Pact.md",
-    "The Marshall Plan.md",
-    "NATO.md",
-    "International Monetary Fund.md",
-    "Eastern Bloc.md",
-    "Bretton Woods Agreement.md",
-    "Torries (1).md",
-    "Magic Games (1).md",
-    "Zionists.md",
-    "Zionism.md",
-    "Ottoman Empire.md",
-    "Meccans.md",
-    "Israel and Palestine.md",
-    "Balfour Declaration.md",
+    "Remote Sync/School/Education Under Capitalism.md",
+    "Remote Sync/School/How Capitalism is a Driving Force of Climate Change.md",
+    "Remote Sync/Home.md",
+    "Remote Sync/School/Capital Notes.md",
+    "Home Mobile.md",
+    "Remote Sync",
+    "Remote Sync/Events/2024-05-21 HRT TIME.md",
+    "Remote Sync/School",
+    "Remote Sync/Personal",
+    "Remote Sync/Personal/International Monetary Fund.md",
+    "Remote Sync/Events",
+    "Remote Sync/School/The Key Contradiction in Capitalist System Notes.md",
+    "Remote Sync/Personal/On Contradiction Notes.md",
+    "Remote Sync/School/Is Capitalism Causing Climate Change Notes.md",
+    "Remote Sync/School/Is Capitalism Bad for Workers Notes.md",
+    "Remote Sync/Personal/Pedagogy of the Oppressed.md",
+    "Remote Sync/School/Inside the Capitalist Education System.md",
+    "Remote Sync/School/Capitalism and American Education.md",
+    "Remote Sync/School/Capitalism the Good, the Bad, and the Ugly.md",
+    "Remote Sync/README (1).md",
+    "Remote Sync/Personal/Warsaw Pact.md",
+    "Remote Sync/Personal/The Marshall Plan.md",
+    "Remote Sync/Personal/NATO.md",
+    "Remote Sync/Personal/Eastern Bloc.md",
+    "Remote Sync/Personal/Bretton Woods Agreement.md",
+    "Remote Sync/Personal/Torries (1).md",
+    "Remote Sync/Personal/Magic Games (1).md",
+    "Remote Sync/Personal/Zionists.md",
+    "Remote Sync/Personal/Zionism.md",
     "Oil and Capitalism",
     "Agriculture and Capitalism",
     "Education and Capitalism",
     "/Education and Capitalism",
     "US and Europe",
-    "Events",
-    "/US and Europe",
-    "/Events",
+    "Remote Sync/Events",
     "Israel and Palestine/Pasted image 20240510174001.png",
     "Israel and Palestine/Pasted image 20240510235357.png",
     "/Israel and Palestine/Pasted image 20240510235357.png",
-    "/Israel and Palestine/Pasted image 20240510174001.png",
-    "Israel and Palestine",
-    "/Israel and Palestine"
+    "/Israel and Palestine/Pasted image 20240510174001.png"
   ]
 }

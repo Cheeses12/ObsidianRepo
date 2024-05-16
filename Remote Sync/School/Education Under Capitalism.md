@@ -7,7 +7,7 @@ Source: https://www.youtube.com/watch?v=uH-pJUPDLwA
 - Things that inspire or come from good education
 	- Critical thinking
 	- Popular access to knowledge
-	- The encyclopedia
+	- The encyclopedia (crazy)
 	- Freedom of speech
 		- Not in the way that right-wing people use it now
 - These ideas came from Enlightenment thinkers
