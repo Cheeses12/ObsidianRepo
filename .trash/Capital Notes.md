@@ -1,7 +1,7 @@
 ---
 Type: Notes
 Summary: Notes on a Summary of Capital by Marx
-Source: "*Das Kapital*"
+Source: https://youtu.be/yxDpF3XqpV4?si=YQhd3MYp0t7QfFa9
 ---
 # Value
 - A commodity is a physical object that is able to satisfy human need
@@ -53,36 +53,5 @@ Source: "*Das Kapital*"
 # The Sale and Purchase of Labor Power
 - Surplus value comes from the sale and purchase of labor power
 - The only place where surplus value can come from is the C part of MCM
-- Capitalists employ people to use their labor on the commodity
-	- This increases the value of the commodity
-- Labor power is the sum of all mental and physical capabilities in a human
-	- Exercised when a laborer produces a use value
-- Every person owns their own labor power and can sell it as they see fit
-- When a person is free to sell their own labor power, they are truly free
-- The labor market and accumulation of capital is not common across history
-- The cost of labor is determined by exchange value
-	- The socially necessary time to do work, prepare for work, and recover from work
-		- If you have to spend years studying for a job, that will be factored in
-		- If the job is physically demanding and takes lots of time to recover from, that will also be factored in
-		- "The value of labor-power resolves itself into the value of a definite quantity of the means of subsistence."
-# Production of Surplus Value
-- Labor power is a commodity that is sold on the market just like any other commodity
-	- In order for it to be a commodity, the labor has to create something that has use value
-- Three Parts in labor
-	1. The actual labor its self, the thing that you do
-	2. The raw materials that are being worked on
-	3. Tools with which the work is done
-- 2 and three are both the means of production
-	- Except for things that are from nature, the means of production are things that are already filtered through the process of labor
-- When a product enters the process as a means of production, it loses its character as a product and becomes a factor in the process
-	- After a hammer is bought from the store to be used by a construction company, it lost its title as a product and is now a factor in the process
-- This system has two conditions
-	1. The worker is under full control of the capitalist
-		- They are working for the capitalist and not themselves
-	2. The product of the labor (ie. the thing that is made) does not belong to the worker, it belongs to the capitalist
-- You can look at a product and break it down into any time labor power was spent on it to determine its value
-- The capitalist own the means of production (mp) and the labor power (lp) and uses them to create a commodity (m')
-	- This process imbues the commodity with more value than it started with, but since the capitalist owns the means of production and anything that is produced using those means of production, they are the ones that benefit off of the work done by the laborer.
-	- The only way that the capitalist profits is if the laborer adds more value to the commodity than they are paid for
+	- Something has to happen to the commodity to add surplus value to it
 #apgov 
-#willUse

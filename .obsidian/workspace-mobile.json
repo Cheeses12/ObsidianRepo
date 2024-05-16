@@ -8,79 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "17bdb1c061303532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e8359dd93fae400",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Games.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f80fae7373fdb19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Israel and Palestine/Zionism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e32f07254bc705e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Torries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f13102ae7c9f7e09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Capital Notes.md",
-                "mode": "source",
-                "source": false
+                "staged": false,
+                "file": "Capital Notes.md"
               }
             }
           },
           {
-            "id": "6ce21e5fbf7188d5",
+            "id": "ecf1559cabdbea75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Education and Capitalism/Education Under Capitalism.md",
-                "mode": "source",
-                "source": false
+                "staged": false,
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +96,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Capital Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +112,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Capital Notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -174,9 +122,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Capital Notes.md"
-          }
+          "state": {}
         }
       },
       {
@@ -184,6 +130,14 @@
         "type": "leaf",
         "state": {
           "type": "git-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "02afdfcdcf38b863",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
           "state": {}
         }
       }
@@ -201,36 +155,36 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f13102ae7c9f7e09",
+  "active": "6d6a2d1c08d32c7d",
   "lastOpenFiles": [
-    "Events/2024-05-17 History Bib.md",
+    "The Key Contradiction in Capitalist System Notes.md",
+    "On Contradiction Notes.md",
+    "Is Capitalism Causing Climate Change Notes.md",
+    "Is Capitalism Bad for Workers Notes.md",
+    "How Capitalism is a Driving Force of Climate Change.md",
+    "Pedagogy of the Oppressed.md",
+    "Inside the Capitalist Education System.md",
+    "Education Under Capitalism.md",
+    "Capitalism and American Education.md",
+    "Capitalism the Good, the Bad, and the Ugly.md",
     "Capital Notes.md",
-    "Education and Capitalism/Education Under Capitalism.md",
-    "Events/2024-05-16 11.9 Webassign.md",
-    "Education and Capitalism/Inside the Capitalist Education System.md",
-    "/Events/2024-05-17 History Bib.md",
-    "/Events/2024-05-14 Meeting with Madison.md",
-    "/Education and Capitalism/Inside the Capitalist Education System.md",
-    "/Events/2024-05-14 11.8 Webassign.md",
-    "/Events/2024-05-13 English Reading.md",
-    "/Education and Capitalism/Pedagogy of the Oppressed.md",
-    "/Education and Capitalism/Education Under Capitalism.md",
-    "/Education and Capitalism/Capitalism and American Education.md",
-    "Education and Capitalism/Pedagogy of the Oppressed.md",
-    "/Events/2024-05-13 Coding.md",
-    "Education and Capitalism/Capitalism and American Education.md",
-    "Agriculture and Capitalism/Capitalism and South African Agriculture.md",
-    "Agriculture and Capitalism/Capitalism and Food Security.md",
-    "Israel and Palestine/Balfour Declaration.md",
-    "Capitalism is Unable to Solve Climate Change.md",
+    "README (1).md",
+    "Warsaw Pact.md",
+    "The Marshall Plan.md",
+    "NATO.md",
+    "International Monetary Fund.md",
+    "Eastern Bloc.md",
+    "Bretton Woods Agreement.md",
+    "Torries (1).md",
+    "Magic Games (1).md",
+    "Zionists.md",
+    "Zionism.md",
+    "Ottoman Empire.md",
+    "Meccans.md",
+    "Israel and Palestine.md",
+    "Balfour Declaration.md",
     "Oil and Capitalism",
     "Agriculture and Capitalism",
-    "README.md",
-    "Events/2024-06-15 Violet party.md",
-    "Events/2024-06-09 Marissa Pary.md",
-    "Events/2024-06-08 Ivy pary.md",
-    "Events/2024-05-14 11.8 Webassign.md",
-    "Book List.md",
     "Education and Capitalism",
     "/Education and Capitalism",
     "US and Europe",
