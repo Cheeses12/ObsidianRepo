@@ -45,8 +45,9 @@ TABLE source as "Source", summary as "Summary" where contains(file.tags, "apgov"
 	- I will use this source as a means to explain some of the concrete examples of how capitalism is ruining the world around us. Climate is one of the most pressing issues of our time and we can trace that back directly to the incentive that companies have to seek profit above all else.
 - Jossa, Bruno. "The Key Contradiction in Capitalist System." *Research Gate,* July 2013, https://www.researchgate.net/publication/270640761_The_Key_Contradiction_in_Capitalist_System.
 	- This is a paper that details the two main contradictions in capitalism: the contrast between the interests of capitalists and the interests of the laborer and the contrast between social production and private acquisition -- the production by many and the theft by the few. The argument of this paper is that the primary contradiction in capital is that the primary contradiction is between the competing interests of the bourgeoisies and the proletariat.
-	- I will use this paper to talk about how there is an inherent divide in the interests of those who control the means of m
+	- I will use this paper to talk about how there is an inherent divide in the interests of those who control the means of production and those who are forced into the system. The part where it discusses the two will be entirely unused as the paper as a whole will be going into showing that you cannot have liberation under capitalism.
 - Pollock, Lauren. "How Capitalism Is a Driving Force of Climate Change." *PIT Journal,* https://pitjournal.unc.edu/2022/12/24/how-capitalism-is-a-driving-force-of-climate-change/
+	- This source also talks about how 
 - Simmons, Lee. "Is Capitalism Bad for Workers?" *Stanford Graduate School of Business,* Stanford, 7 June 2017, https://www.gsb.stanford.edu/insights/capitalism-bad-workers
 - Waugh, Chris. "Is Capitalism Causing Climate Change?" *Global Social Challenges,* Manchester, 7 July 2022, https://sites.manchester.ac.uk/global-social-challenges/2022/07/07/is-capitalism-causing-climate-change/.
  #assignment 
