@@ -50,7 +50,30 @@ TABLE source as "Source", summary as "Summary" where contains(file.tags, "apgov"
 	- This source also talks about how capitalism is harming the environment. It talks about how the interests of capital lead companies to directly harm the environment and there isn't much to do about it. There have been attempts at trying to rein in companies' pollution, but, like always, they try and skirt it in any ways possible. Simple regulation will never be enough to contain the immense greed of companies.
 	- I will use this to point out that even if you don't care about the capitalist exploiting you, the system of capital is destroying the world around us. There is no other way to look at it, the world around us is driving towards the edge of a cliff and the interests of capital are at the wheel.
 - Simmons, Lee. "Is Capitalism Bad for Workers?" *Stanford Graduate School of Business,* Stanford, 7 June 2017, https://www.gsb.stanford.edu/insights/capitalism-bad-workers.
-	- This source details the harm that increasing profit margins can have for the worker. It talks about how as the capitalist is taking larger and larger slices of the pie, the workers are being left with the crumbs. 
+	- This source details the harm that increasing profit margins can have for the worker. It talks about how as the capitalist is taking larger and larger slices of the pie, the workers are being left with the crumbs. The theories that it discussed were those of socialism. It shows, through data, that workers are objectively being harmed by the desire for ever increasing profits.
+	- I will use this source to show how workers are being materially being harmed by the system of Capital. It will push my argument beyond just theory, because theory is just theory unless it can be shown that the theory is real. 
 - Waugh, Chris. "Is Capitalism Causing Climate Change?" *Global Social Challenges,* Manchester, 7 July 2022, https://sites.manchester.ac.uk/global-social-challenges/2022/07/07/is-capitalism-causing-climate-change/.
-- 
+	- This is another source to show how capitalism is ruining our world and not just our lives. It talks about how the desire for endless profit. Unlike what large companies are saying, this isn't an issue that can be solved by using less or turning off the lights. The majority of emissions come from huge industry. The reason that these large industries haven't pushed to switched to renewables or invested in renewables is because it would tank their profits.
+	- I will use this source to also point out how the only path forwards is to cast capitalism aside for the safer, more humane system. I will also use it to show that regardless of what we do as individuals, the only thing that can save our earth is to come together and demand change.
+
+# Outline
+- Paragraph #1
+	- This paragraph will go over definitions. 
+	- I will start with value, then go to capital, then then the means of production.
+	- From these, I can then go onto explain the circuit of Capital and money
+	- This will then lead me into wage labor and how it is exploited by the capitalist
+- Paragraph #2
+	- This paragraph will be tackling the extensive topic of worker exploitation.
+	- It will use evidence to show how *specifically* workers are harmed in the cycle of Capital. 
+	- I will cite specific examples of when a worker is exploited and how there are no exceptions to this system of exploitation.
+	- I will also touch on the inherent Contradictions of capitalism.
+- Paragraph #3
+	- In this paragraph, I will be talking about capitalism and the climate crisis
+	- I will talk about how this is a problem that can't be solved through individual actions
+	- I will talk about how this isn't a problem that can be solved through market reforms.
+	- I will also talk about which industries specifically are responsible for the situation we are in
+- Paragraph #4
+	- In this paragraph, I will talk about how we can resolve these issues
+	- I will talk about the importance of class consciousness
+	- I will talk about the importance of organizing
  #assignment 
