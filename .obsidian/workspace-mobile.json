@@ -16,19 +16,7 @@
             }
           },
           {
-            "id": "c23dc4f97401696b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Remote Sync/Events/2024-05-17 History Bib.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "736bfdfecd1cb7e8",
+            "id": "1d60ff76e9d3948f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -39,18 +27,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "d0c58135cdb7812d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Remote Sync/School/AP Gov/Final Project/Capital Notes.md",
-                "mode": "preview",
-                "source": false
-              }
             }
           }
         ],
@@ -120,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Remote Sync/Events/2024-05-17 History Bib.md",
+            "file": "Remote Sync/Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Remote Sync/Events/2024-05-17 History Bib.md",
+            "file": "Remote Sync/Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Remote Sync/Events/2024-05-17 History Bib.md"
+            "file": "Remote Sync/Home.md"
           }
         }
       },
@@ -184,10 +160,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c23dc4f97401696b",
+  "active": "1d60ff76e9d3948f",
   "lastOpenFiles": [
-    "Remote Sync/School/AP Gov/Final Project/Capital Notes.md",
     "Remote Sync/Events/2024-05-17 History Bib.md",
+    "Remote Sync/School/AP Gov/Final Project/Capital Notes.md",
     "Remote Sync/Home.md",
     "Remote Sync/School/AP Gov/Final Project/Citations.md",
     "Remote Sync/School/AP Gov/Final Project",
