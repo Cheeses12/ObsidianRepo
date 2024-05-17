@@ -3,8 +3,8 @@ title: History Bib
 allDay: false
 startTime: 23:30
 endTime: 23:59
-date: 2024-05-17
-completed: null
+date: 2024-05-24
+completed:
 ---
 # Definitions
 ## Capital
