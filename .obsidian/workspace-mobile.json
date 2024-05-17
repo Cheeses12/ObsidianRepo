@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "208b379fdd5067fa",
+            "id": "6f9eb3fd9cfcce3e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -28,21 +28,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "d6200aa306284071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Remote Sync/Events/2024-05-17 History Bib.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Remote Sync/Events/2024-05-17 History Bib.md",
+            "file": "Remote Sync/Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Remote Sync/Events/2024-05-17 History Bib.md",
+            "file": "Remote Sync/Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Remote Sync/Events/2024-05-17 History Bib.md"
+            "file": "Remote Sync/Home.md"
           }
         }
       },
@@ -172,10 +160,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d6200aa306284071",
+  "active": "6f9eb3fd9cfcce3e",
   "lastOpenFiles": [
-    "Remote Sync/Home.md",
     "Remote Sync/Events/2024-05-17 History Bib.md",
+    "Remote Sync/Home.md",
     "Home'.md",
     "/Remote Sync/Events/2024-05-17 History Bib.md",
     "/Home'.md",
