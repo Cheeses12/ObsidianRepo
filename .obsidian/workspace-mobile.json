@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "6f9eb3fd9cfcce3e",
+            "id": "c3d0be49458599df",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -28,21 +28,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "a807840d16741623",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Remote Sync/Events/2024-05-17 History Bib.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Remote Sync/Events/2024-05-17 History Bib.md",
+            "file": "Remote Sync/Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Remote Sync/Events/2024-05-17 History Bib.md",
+            "file": "Remote Sync/Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Remote Sync/Events/2024-05-17 History Bib.md"
+            "file": "Remote Sync/Home.md"
           }
         }
       },
@@ -172,11 +160,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a807840d16741623",
+  "active": "c3d0be49458599df",
   "lastOpenFiles": [
+    "Remote Sync/Events/2024-05-17 History Bib.md",
     "Remote Sync/Events/2024-05-16 11.9 Webassign.md",
     "Remote Sync/Home.md",
-    "Remote Sync/Events/2024-05-17 History Bib.md",
     "Home'.md",
     "/Remote Sync/Events/2024-05-17 History Bib.md",
     "/Home'.md",
