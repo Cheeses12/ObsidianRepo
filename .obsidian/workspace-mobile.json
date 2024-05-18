@@ -33,14 +33,11 @@
             "id": "c67538295bcda22e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DND/DND test.canvas",
-                "viewState": {
-                  "x": -335.15,
-                  "y": 745.8713703081446,
-                  "zoom": -0.5464000193592732
-                }
+                "file": "DND/Spells/Spiritual Weapon.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND/DND test.canvas",
+                "file": "DND/Spells/Spiritual Weapon.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +237,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DND/DND test.canvas",
+            "file": "DND/Spells/Spiritual Weapon.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -257,7 +254,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "DND/DND test.canvas",
+            "file": "DND/Spells/Spiritual Weapon.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -269,7 +266,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "DND/DND test.canvas"
+            "file": "DND/Spells/Spiritual Weapon.md"
           }
         }
       },
@@ -306,20 +303,21 @@
   },
   "active": "c67538295bcda22e",
   "lastOpenFiles": [
+    "DND/War Domain.md",
+    "DND/DND test.canvas",
+    "DND/Spells/Spiritual Weapon.md",
+    "DND/Spells/Magic Weapon.md",
+    "DND/Spells/Divine Favor.md",
     "DND/Spells/Word of Radiance.md",
     "DND/Spells/Toll the Dead.md",
     "DND/Spells/Decompose.md",
     "/DND/Spells/Word of Radiance.md",
     "/DND/Spells/Toll the Dead.md",
     "/DND/Spells/Decompose.md",
-    "DND/Spells/Divine Favor.md",
     "/DND/Spells/Divine Favor.md",
-    "DND/War Domain.md",
     "DND/Spells/Stone Skin.md",
-    "DND/Spells/Spiritual Weapon.md",
     "DND/Spells/Spirit Guardians.md",
     "DND/Spells/Shield of Faith.md",
-    "DND/Spells/Magic Weapon.md",
     "DND/Spells/Hold Monster.md",
     "DND/Spells/Freedom of Movement.md",
     "DND/Spells/Flame Strike.md",
@@ -331,12 +329,10 @@
     "/DND/Spells/Spirit Guardians.md",
     "/DND/Spells/Shield of Faith.md",
     "/DND/Spells/Magic Weapon.md",
-    "/DND/Spells/Hold Monster.md",
     "DND/Spells",
     "DND/Classes",
     "/DND/Spells",
     "/DND/Classes",
-    "DND/DND test.canvas",
     "/DND/DND test.canvas",
     "DND",
     "/DND",
