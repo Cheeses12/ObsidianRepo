@@ -118,9 +118,18 @@
 		{"id":"c447b15b8377cd9a","type":"text","text":"<font size = 5>Saving Throws","x":-333,"y":-180,"width":250,"height":60,"color":"3"},
 		{"id":"5dd2a4c6f3603bdd","type":"text","text":"<font size = 6>Scores","x":-613,"y":-280,"width":1440,"height":60,"color":"3"},
 		{"id":"334a3e65b2a13626","x":460,"y":-490,"width":362,"height":70,"color":"6","type":"text","text":"<font size = 6> Background: Urchin"},
-		{"id":"5f1964afec552d3e","x":1237,"y":-293,"width":250,"height":60,"color":"3","type":"text","text":"HP"},
 		{"id":"e52781945b52ee48","type":"text","text":"14","x":902,"y":160,"width":250,"height":60,"color":"3"},
-		{"id":"9431eec1d9770ef3","type":"text","text":"7","x":902,"y":320,"width":250,"height":60,"color":"3"}
+		{"id":"9431eec1d9770ef3","type":"text","text":"7","x":902,"y":320,"width":250,"height":60,"color":"3"},
+		{"id":"5f1964afec552d3e","x":1200,"y":-80,"width":250,"height":60,"color":"3","type":"text","text":"<font size = 5>HP: 28"},
+		{"id":"4ef33b88199a7e93","type":"text","text":"<font size = 5>Damage Taken: ","x":1200,"y":0,"width":250,"height":60,"color":"3"},
+		{"id":"1f6513c6b3839078","type":"text","text":"<font size = 5>Temp HP:","x":1200,"y":80,"width":250,"height":60,"color":"3"},
+		{"id":"903ba5d30a667569","type":"text","text":"<font size = 5>Death Saving Throws: ","x":1500,"y":-80,"width":320,"height":60,"color":"3"},
+		{"id":"5ae7af698b71e791","type":"text","text":"- [ ] <font size = 5>","x":1500,"y":0,"width":130,"height":60,"color":"#ffffff"},
+		{"id":"3b00d74940623f2e","type":"text","text":"- [ ] <font size = 5>","x":1660,"y":0,"width":130,"height":60,"color":"#ffffff"},
+		{"id":"5c0c0aa51f3118e6","type":"text","text":"- [ ] <font size = 5>","x":1820,"y":0,"width":130,"height":60,"color":"#ffffff"},
+		{"id":"7bf7b5c1912dafb6","type":"text","text":"- [ ] <font size = 5>","x":1500,"y":80,"width":130,"height":60,"color":"#000000"},
+		{"id":"5ca31684d3f75766","type":"text","text":"- [ ] <font size = 5>","x":1660,"y":80,"width":130,"height":60,"color":"#000000"},
+		{"id":"b69096bca1e25b9f","type":"text","text":"- [ ] <font size = 5>","x":1820,"y":80,"width":130,"height":60,"color":"#ffffff"}
 	],
 	"edges":[]
 }
