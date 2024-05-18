@@ -79,7 +79,7 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 
 Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
 
-##### Channel Divinity: [[Turn Undead]]
+##### Channel Divinity: Turn Undead
 
 As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
