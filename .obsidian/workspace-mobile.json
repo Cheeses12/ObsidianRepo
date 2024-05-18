@@ -14,9 +14,93 @@
               "type": "full-calendar-view",
               "state": {}
             }
+          }
+        ]
+      },
+      {
+        "id": "7952fcdf608f1723",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99d60b11f70de8ba",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Remote Sync/Home.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "pinned": true
+            },
+            "group": "322ce7dd271c1389"
+          }
+        ]
+      },
+      {
+        "id": "79045a5e50f70c3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb43aecc28cde2f1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
           },
           {
-            "id": "c3d0be49458599df",
+            "id": "87e6afd1fe86b00b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -28,21 +112,53 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "6c6f09181058dd72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Remote Sync/Events/2024-05-17 History Bib.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "11a0d0270ee8f87d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e825e67c206a1f78",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Remote Sync/Home.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "pinned": true
+            },
+            "group": "322ce7dd271c1389"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +224,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Remote Sync/Events/2024-05-17 History Bib.md",
+            "file": "Remote Sync/Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +241,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Remote Sync/Events/2024-05-17 History Bib.md",
+            "file": "Remote Sync/Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +253,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Remote Sync/Events/2024-05-17 History Bib.md"
+            "file": "Remote Sync/Home.md"
           }
         }
       },
@@ -172,10 +288,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6c6f09181058dd72",
+  "active": "87e6afd1fe86b00b",
   "lastOpenFiles": [
     "Remote Sync/Home.md",
-    "Remote Sync/Events/2024-05-17 History Bib.md",
+    "Remote Sync/Events/2024-05-17 AP Gov Project.md",
     "Remote Sync/Events/2024-05-16 11.9 Webassign.md",
     "Home'.md",
     "/Remote Sync/Events/2024-05-17 History Bib.md",
