@@ -14,8 +14,23 @@
               "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "6955f14edc83a939",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Remote Sync/Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7952fcdf608f1723",
@@ -99,23 +114,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "d8278a0afbb964d9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Remote Sync/Home.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "11a0d0270ee8f87d",
@@ -289,9 +289,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d8278a0afbb964d9",
+  "active": "6955f14edc83a939",
   "lastOpenFiles": [
     "Remote Sync/Home.md",
+    "DND test.canvas",
+    "/DND test.canvas",
     "Remote Sync/Events/2024-05-17 AP Gov Project.md",
     "Remote Sync/Events/2024-05-16 11.9 Webassign.md",
     "Home'.md",
@@ -316,7 +318,6 @@
     "/Remote Sync/Personal/US and the EU/The Marshall Plan.md",
     "/Remote Sync/Personal/US and the EU/NATO.md",
     "/Remote Sync/Personal/US and the EU/International Monetary Fund.md",
-    "/Remote Sync/Personal/US and the EU/Eastern Bloc.md",
     "Remote Sync/Personal/US and the EU",
     "Remote Sync/Personal/Israel and Palistine",
     "Remote Sync/Personal/Books",
