@@ -71,6 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Remote Sync/Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,7 +101,7 @@
             }
           },
           {
-            "id": "87e6afd1fe86b00b",
+            "id": "d8278a0afbb964d9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -288,7 +289,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "87e6afd1fe86b00b",
+  "active": "d8278a0afbb964d9",
   "lastOpenFiles": [
     "Remote Sync/Home.md",
     "Remote Sync/Events/2024-05-17 AP Gov Project.md",
