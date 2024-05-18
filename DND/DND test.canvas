@@ -100,15 +100,15 @@
 		{"id":"d70cae991e566f34","type":"text","text":"Investigation","x":277,"y":80,"width":250,"height":60,"color":"3"},
 		{"id":"0c55bd1e8645c79a","type":"text","text":"Performance","x":577,"y":-80,"width":250,"height":60,"color":"3"},
 		{"id":"de20d92966725138","type":"text","text":"Persuasion","x":577,"y":0,"width":250,"height":60,"color":"3"},
-		{"id":"fcb6b99c9754647a","type":"text","text":"","x":-333,"y":0,"width":250,"height":60,"color":"3"},
-		{"id":"38ed55f3d0b01841","type":"text","text":"","x":-333,"y":80,"width":250,"height":60,"color":"3"},
+		{"id":"fcb6b99c9754647a","type":"text","text":"<font size = 5>+2","x":-333,"y":0,"width":250,"height":60,"color":"3"},
+		{"id":"38ed55f3d0b01841","type":"text","text":"<font size = 5>+1","x":-333,"y":80,"width":250,"height":60,"color":"3"},
 		{"id":"789f481b79fd5e57","type":"text","text":"Acrobatics","x":-23,"y":-80,"width":250,"height":60,"color":"3"},
 		{"id":"a8bf2520e9880f79","type":"text","text":"Animal Handling","x":-23,"y":0,"width":250,"height":60,"color":"3"},
 		{"id":"f7fc6f08c012a7d2","type":"text","text":"Arcana","x":-23,"y":80,"width":250,"height":60,"color":"3"},
-		{"id":"25c0904bdde66f75","type":"text","text":"","x":-333,"y":160,"width":250,"height":60,"color":"3"},
-		{"id":"872a127cf900e2f7","type":"text","text":"","x":-333,"y":240,"width":250,"height":60,"color":"4"},
-		{"id":"3649e4a9c671ac0e","type":"text","text":"","x":-333,"y":320,"width":250,"height":60,"color":"3"},
-		{"id":"8b88b25cd27fd51a","type":"text","text":"","x":-333,"y":-80,"width":250,"height":60,"color":"3"},
+		{"id":"25c0904bdde66f75","type":"text","text":"<font size = 5>+2","x":-333,"y":160,"width":250,"height":60,"color":"3"},
+		{"id":"872a127cf900e2f7","type":"text","text":"<font size = 5>+5","x":-333,"y":240,"width":250,"height":60,"color":"4"},
+		{"id":"3649e4a9c671ac0e","type":"text","text":"<font size = 5>+1","x":-333,"y":320,"width":250,"height":60,"color":"4"},
+		{"id":"8b88b25cd27fd51a","type":"text","text":"<font size = 5>+3","x":-333,"y":-80,"width":250,"height":60,"color":"3"},
 		{"id":"33532f3411fde8fc","type":"text","text":"16","x":902,"y":-80,"width":250,"height":60,"color":"3"},
 		{"id":"1e9e7bb73ca300f0","type":"text","text":"10","x":902,"y":0,"width":250,"height":60,"color":"3"},
 		{"id":"583b09eae4f4f150","type":"text","text":"13","x":902,"y":80,"width":250,"height":60,"color":"3"},
@@ -131,7 +131,7 @@
 		{"id":"5ca31684d3f75766","type":"text","text":"- [ ] <font size = 5>","x":1660,"y":80,"width":130,"height":60,"color":"#000000"},
 		{"id":"b69096bca1e25b9f","type":"text","text":"- [ ] <font size = 5>","x":1820,"y":80,"width":130,"height":60,"color":"#000000"},
 		{"id":"6f917baa50e29be9","type":"text","text":"<font size = 5>AC: 12","x":1200,"y":160,"width":250,"height":60,"color":"3"},
-		{"id":"bf76729a1135a1ca","type":"text","text":"<font size = 5>","x":-900,"y":-80,"width":250,"height":60,"color":"3"}
+		{"id":"bf76729a1135a1ca","type":"text","text":"<font size = 5>Proficiency Bonus: +2","x":-900,"y":-90,"width":250,"height":80,"color":"3"}
 	],
 	"edges":[]
 }
