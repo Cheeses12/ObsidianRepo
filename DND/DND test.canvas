@@ -101,7 +101,7 @@
 		{"id":"e52781945b52ee48","type":"text","text":"15","x":902,"y":160,"width":250,"height":60,"color":"3"},
 		{"id":"9431eec1d9770ef3","type":"text","text":"8","x":902,"y":320,"width":250,"height":60,"color":"3"},
 		{"id":"5f1964afec552d3e","type":"text","text":"<font size = 5>HP: 28","x":1200,"y":-80,"width":250,"height":60,"color":"3"},
-		{"id":"4ef33b88199a7e93","type":"text","text":"<font size = 5>Damage Taken: 8","x":1200,"y":0,"width":280,"height":60,"color":"3"},
+		{"id":"4ef33b88199a7e93","type":"text","text":"<font size = 5>Damage Taken: 28","x":1200,"y":0,"width":280,"height":60,"color":"3"},
 		{"id":"1f6513c6b3839078","type":"text","text":"<font size = 5>Temp HP:","x":1200,"y":80,"width":250,"height":60,"color":"3"},
 		{"id":"903ba5d30a667569","type":"text","text":"<font size = 5>Death Saving Throws: ","x":1500,"y":-80,"width":320,"height":60,"color":"3"},
 		{"id":"5ae7af698b71e791","type":"text","text":"- [ ] <font size = 5>","x":1500,"y":0,"width":130,"height":60,"color":"#ffffff"},
