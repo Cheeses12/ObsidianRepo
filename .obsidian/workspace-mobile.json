@@ -33,11 +33,14 @@
             "id": "c67538295bcda22e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DND/Spells/Spiritual Weapon.md",
-                "mode": "preview",
-                "source": false
+                "file": "DND/DND test.canvas",
+                "viewState": {
+                  "x": -47.87428166869097,
+                  "y": 2923.63274351007,
+                  "zoom": -1.6212553103213188
+                }
               }
             }
           }
@@ -98,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND/Spells/Spiritual Weapon.md",
+                "file": "DND/DND test.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +240,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DND/Spells/Spiritual Weapon.md",
+            "file": "DND/DND test.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -254,7 +257,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "DND/Spells/Spiritual Weapon.md",
+            "file": "DND/DND test.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -266,7 +269,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "DND/Spells/Spiritual Weapon.md"
+            "file": "DND/DND test.canvas"
           }
         }
       },
@@ -304,8 +307,8 @@
   "active": "c67538295bcda22e",
   "lastOpenFiles": [
     "DND/War Domain.md",
-    "DND/DND test.canvas",
     "DND/Spells/Spiritual Weapon.md",
+    "DND/DND test.canvas",
     "DND/Spells/Magic Weapon.md",
     "DND/Spells/Divine Favor.md",
     "DND/Spells/Word of Radiance.md",
