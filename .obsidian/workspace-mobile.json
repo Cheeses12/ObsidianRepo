@@ -28,9 +28,24 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c67538295bcda22e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "DND/DND test.canvas",
+                "viewState": {
+                  "x": -207.50128286852527,
+                  "y": 889.2153097824282,
+                  "zoom": -1.1551773472470264
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7952fcdf608f1723",
@@ -86,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Remote Sync/Home.md",
+                "file": "DND/DND test.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +240,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Remote Sync/Home.md",
+            "file": "DND/DND test.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -242,7 +257,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Remote Sync/Home.md",
+            "file": "DND/DND test.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -254,7 +269,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Remote Sync/Home.md"
+            "file": "DND/DND test.canvas"
           }
         }
       },
@@ -289,45 +304,48 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6955f14edc83a939",
+  "active": "c67538295bcda22e",
   "lastOpenFiles": [
+    "DND/Spells/Divine Favor.md",
+    "/DND/Spells/Divine Favor.md",
+    "DND/War Domain.md",
+    "DND/Spells/Stone Skin.md",
+    "DND/Spells/Spiritual Weapon.md",
+    "DND/Spells/Spirit Guardians.md",
+    "DND/Spells/Shield of Faith.md",
+    "DND/Spells/Magic Weapon.md",
+    "DND/Spells/Hold Monster.md",
+    "DND/Spells/Freedom of Movement.md",
+    "DND/Spells/Flame Strike.md",
+    "DND/Spells/Crusader's Mantle.md",
+    "DND/Classes/Clerics.md",
+    "/DND/War Domain.md",
+    "/DND/Spells/Stone Skin.md",
+    "/DND/Spells/Spiritual Weapon.md",
+    "/DND/Spells/Spirit Guardians.md",
+    "/DND/Spells/Shield of Faith.md",
+    "/DND/Spells/Magic Weapon.md",
+    "/DND/Spells/Hold Monster.md",
+    "/DND/Spells/Freedom of Movement.md",
+    "/DND/Spells/Flame Strike.md",
+    "/DND/Spells/Crusader's Mantle.md",
+    "/DND/Classes/Clerics.md",
+    "DND/Spells",
+    "DND/Classes",
+    "/DND/Spells",
+    "/DND/Classes",
     "Remote Sync/Home.md",
+    "DND/Divine Favor.md",
+    "DND/DND test.canvas",
+    "/DND/DND test.canvas",
+    "DND",
+    "/DND",
     "DND test.canvas",
     "/DND test.canvas",
-    "Remote Sync/Events/2024-05-17 AP Gov Project.md",
-    "Remote Sync/Events/2024-05-16 11.9 Webassign.md",
-    "Home'.md",
-    "/Remote Sync/Events/2024-05-17 History Bib.md",
-    "/Home'.md",
-    "Remote Sync/Personal/US and the EU/Warsaw Pact.md",
-    "Remote Sync/Personal/US and the EU/The Marshall Plan.md",
-    "Remote Sync/Personal/US and the EU/NATO.md",
-    "Remote Sync/Personal/US and the EU/International Monetary Fund.md",
-    "Remote Sync/Personal/US and the EU/Eastern Bloc.md",
-    "Remote Sync/Personal/US and the EU/Bretton Woods Agreement.md",
-    "Remote Sync/Personal/Israel and Palistine/Zionists.md",
-    "Remote Sync/Personal/Israel and Palistine/Zionism.md",
-    "Remote Sync/Personal/Israel and Palistine/Ottoman Empire.md",
-    "Remote Sync/Personal/Israel and Palistine/Meccans.md",
-    "Remote Sync/Personal/Israel and Palistine/Israel and Palestine.md",
-    "Remote Sync/Personal/Israel and Palistine/Balfour Declaration.md",
-    "Remote Sync/Personal/Books/Pedagogy of the Oppressed.md",
-    "Remote Sync/Personal/Books/On Contradiction Notes.md",
-    "Remote Sync/Personal/Books/Book List (1).md",
-    "/Remote Sync/Personal/US and the EU/Warsaw Pact.md",
-    "/Remote Sync/Personal/US and the EU/The Marshall Plan.md",
-    "/Remote Sync/Personal/US and the EU/NATO.md",
-    "/Remote Sync/Personal/US and the EU/International Monetary Fund.md",
     "Remote Sync/Personal/US and the EU",
     "Remote Sync/Personal/Israel and Palistine",
     "Remote Sync/Personal/Books",
     "/Remote Sync/Personal/US and the EU",
-    "/Remote Sync/Personal/Israel and Palistine",
-    "/Remote Sync/Personal/Books",
-    "Remote Sync/School/AP Gov/Final Project",
-    "Remote Sync/School/AP Gov",
-    "Remote Sync",
-    "Remote Sync/School",
     "Israel and Palestine/Pasted image 20240510174001.png",
     "Israel and Palestine/Pasted image 20240510235357.png",
     "/Israel and Palestine/Pasted image 20240510235357.png",
