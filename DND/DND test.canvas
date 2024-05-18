@@ -30,7 +30,7 @@
 		{"id":"4f7df6ef3176441c","type":"text","text":"<font size = 5>Dagger","x":-616,"y":600,"width":507,"height":60,"color":"1"},
 		{"id":"a93ee586296d5f04","type":"text","text":"<font size = 5>+3","x":-48,"y":600,"width":314,"height":60,"color":"1"},
 		{"id":"9b553fe9c256fb80","type":"text","text":"<font size =5> Taser","x":-616,"y":680,"width":507,"height":60,"color":"1"},
-		{"id":"d4839a4aea791264","type":"text","text":"","x":-616,"y":760,"width":507,"height":60,"color":"1"},
+		{"id":"d4839a4aea791264","type":"text","text":"Club","x":-616,"y":760,"width":507,"height":60,"color":"1"},
 		{"id":"950ffb234d430592","type":"text","text":"","x":-616,"y":840,"width":507,"height":60,"color":"1"},
 		{"id":"3dad64caae5d6c7f","type":"text","text":"<font size = 6>Weapons","x":-616,"y":420,"width":1440,"height":60,"color":"1"},
 		{"id":"b52f8fab02b1ee2a","type":"text","text":"<font size = 5>Name","x":-616,"y":520,"width":507,"height":60,"color":"1"},
