@@ -129,7 +129,7 @@
 		{"id":"5c0c0aa51f3118e6","type":"text","text":"- [ ] <font size = 5>","x":1820,"y":0,"width":130,"height":60,"color":"#ffffff"},
 		{"id":"7bf7b5c1912dafb6","type":"text","text":"- [ ] <font size = 5>","x":1500,"y":80,"width":130,"height":60,"color":"#000000"},
 		{"id":"5ca31684d3f75766","type":"text","text":"- [ ] <font size = 5>","x":1660,"y":80,"width":130,"height":60,"color":"#000000"},
-		{"id":"b69096bca1e25b9f","type":"text","text":"- [ ] <font size = 5>","x":1820,"y":80,"width":130,"height":60,"color":"#ffffff"}
+		{"id":"b69096bca1e25b9f","type":"text","text":"- [ ] <font size = 5>","x":1820,"y":80,"width":130,"height":60,"color":"#000000"}
 	],
 	"edges":[]
 }
