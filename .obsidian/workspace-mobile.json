@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "6955f14edc83a939",
+            "id": "eac329d8573066a3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -28,24 +28,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "c67538295bcda22e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "DND/DND test.canvas",
-                "viewState": {
-                  "x": -47.87428166869097,
-                  "y": 2923.63274351007,
-                  "zoom": -1.6212553103213188
-                }
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "7952fcdf608f1723",
@@ -101,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND/DND test.canvas",
+                "file": "Remote Sync/Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +225,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DND/DND test.canvas",
+            "file": "Remote Sync/Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -257,7 +242,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "DND/DND test.canvas",
+            "file": "Remote Sync/Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -269,7 +254,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "DND/DND test.canvas"
+            "file": "Remote Sync/Home.md"
           }
         }
       },
@@ -304,11 +289,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c67538295bcda22e",
+  "active": "eac329d8573066a3",
   "lastOpenFiles": [
+    "DND/DND test.canvas",
     "DND/War Domain.md",
     "DND/Spells/Spiritual Weapon.md",
-    "DND/DND test.canvas",
     "DND/Spells/Magic Weapon.md",
     "DND/Spells/Divine Favor.md",
     "DND/Spells/Word of Radiance.md",
