@@ -28,9 +28,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "9368261f670a3045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legend of Sleepy Hollow Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7952fcdf608f1723",
@@ -86,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Remote Sync/Home.md",
+                "file": "Legend of Sleepy Hollow Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +237,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Remote Sync/Home.md",
+            "file": "Legend of Sleepy Hollow Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Remote Sync/Home.md",
+            "file": "Legend of Sleepy Hollow Notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -254,7 +266,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Remote Sync/Home.md"
+            "file": "Legend of Sleepy Hollow Notes.md"
           }
         }
       },
@@ -289,8 +301,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "39880a1512aec79a",
+  "active": "9368261f670a3045",
   "lastOpenFiles": [
+    "Remote Sync/Home.md",
+    "Legend of Sleepy Hollow Notes.md",
+    "Remote Sync/Personal/Misc/How to Update apt Sources.md",
+    "DND/Spells/Sacred Flame.md",
+    "/Remote Sync/Personal/Misc/How to Update apt Sources.md",
+    "/DND/Spells/Sacred Flame.md",
+    "Remote Sync/Personal/Misc/Magic Games (1).md",
+    "/Remote Sync/Personal/Misc/Magic Games (1).md",
+    "Remote Sync/Personal/Misc",
+    "/Remote Sync/Personal/Misc",
     "DND/DND test.canvas",
     "DND/War Domain.md",
     "DND/Spells/Spiritual Weapon.md",
@@ -310,13 +332,6 @@
     "DND/Spells/Freedom of Movement.md",
     "DND/Spells/Flame Strike.md",
     "DND/Spells/Crusader's Mantle.md",
-    "DND/Classes/Clerics.md",
-    "/DND/War Domain.md",
-    "/DND/Spells/Stone Skin.md",
-    "/DND/Spells/Spiritual Weapon.md",
-    "/DND/Spells/Spirit Guardians.md",
-    "/DND/Spells/Shield of Faith.md",
-    "/DND/Spells/Magic Weapon.md",
     "DND/Spells",
     "DND/Classes",
     "/DND/Spells",
@@ -328,8 +343,6 @@
     "/DND test.canvas",
     "Remote Sync/Personal/US and the EU",
     "Remote Sync/Personal/Israel and Palistine",
-    "Remote Sync/Personal/Books",
-    "/Remote Sync/Personal/US and the EU",
     "Israel and Palestine/Pasted image 20240510174001.png",
     "Israel and Palestine/Pasted image 20240510235357.png",
     "/Israel and Palestine/Pasted image 20240510235357.png",
