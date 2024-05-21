@@ -28,4 +28,11 @@ Fav Quote 3:
 	- He was scared when he inevitably had to walk home at night
 - There is a really weird description of this lady named Katrina
 - He really want to eat all of her farm animals and take her to Tennessee 
-# Notes on Text from Disc
+# Notes on Text from Discussion
+- Good scenery and descriptions
+- Good small Town gossip and folk tales
+- Nice people
+- Ichabod sucks (full of himself)
+	- Singing 
+	- Going out with Katrina
+- Headless horseman is the consequences of hubris
