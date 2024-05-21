@@ -1,3 +1,14 @@
+---
+Name: Legend of Sleepy Hollow
+Author: Washington Irving
+Rating: "2"
+Date Read: 2024-05-20
+Review: Really boring and too long
+Fav Quote 1: 
+Fav Quote 2: 
+Fav Quote 3:
+---
+ 
 - Everything in the valley is calm and sleepy so much so that it seems like magic
 - People often see and hear strange things 
 - Most prominent apparition is a headless horseman
@@ -17,3 +28,4 @@
 	- He was scared when he inevitably had to walk home at night
 - There is a really weird description of this lady named Katrina
 - He really want to eat all of her farm animals and take her to Tennessee 
+# Notes on Text from Disc
