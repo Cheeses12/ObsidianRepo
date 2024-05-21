@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "39880a1512aec79a",
+            "id": "4dbe096ad11189bc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -28,21 +28,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9368261f670a3045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Legend of Sleepy Hollow Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "7952fcdf608f1723",
@@ -98,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Legend of Sleepy Hollow Notes.md",
+                "file": "Remote Sync/Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +225,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Legend of Sleepy Hollow Notes.md",
+            "file": "Remote Sync/Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -254,7 +242,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Legend of Sleepy Hollow Notes.md",
+            "file": "Remote Sync/Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -266,7 +254,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Legend of Sleepy Hollow Notes.md"
+            "file": "Remote Sync/Home.md"
           }
         }
       },
@@ -301,10 +289,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9368261f670a3045",
+  "active": "4dbe096ad11189bc",
   "lastOpenFiles": [
-    "Remote Sync/Home.md",
     "Legend of Sleepy Hollow Notes.md",
+    "Remote Sync/Home.md",
     "Remote Sync/Personal/Misc/How to Update apt Sources.md",
     "DND/Spells/Sacred Flame.md",
     "/Remote Sync/Personal/Misc/How to Update apt Sources.md",
