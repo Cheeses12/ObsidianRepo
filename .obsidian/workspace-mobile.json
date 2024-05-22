@@ -35,6 +35,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Remote Sync/School/AP Gov/Final Project/Capital Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e049ea91700d8b2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Remote Sync/Events/2024-05-17 AP Gov Project.md",
                 "mode": "source",
                 "source": false
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7952fcdf608f1723",
@@ -301,9 +313,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1e96101d25a97f55",
+  "active": "e049ea91700d8b2d",
   "lastOpenFiles": [
     "Remote Sync/School/AP Gov/Final Project/Capital Notes.md",
+    "Remote Sync/Events/2024-05-17 AP Gov Project.md",
     "Remote Sync/School/English 3/Lacrimosa Notes.md",
     "Remote Sync/School/English 3/Legend of Sleepy Hollow Notes.md",
     "Remote Sync/Home.md",
@@ -332,7 +345,6 @@
     "DND/Spells/Spirit Guardians.md",
     "DND/Spells/Shield of Faith.md",
     "DND/Spells/Hold Monster.md",
-    "DND/Spells/Freedom of Movement.md",
     "DND/Spells",
     "DND/Classes",
     "/DND/Spells",
