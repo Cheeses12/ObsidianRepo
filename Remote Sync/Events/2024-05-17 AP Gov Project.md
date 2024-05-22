@@ -81,5 +81,5 @@ TABLE source as "Source", summary as "Summary" where contains(file.tags, "apgov"
 
 Welcome back to Mornings with Marx and today we are going to be talking about capitalism. 
 
-Before we go into the deep end, we need first go over some definitions. First and most importantly, what even is value. Seeing that all economies are based on value, it is a good place to start. There are three kinds of value for an object, use value, exchange value, and value. Use value is the usefulness that an object has to a person, so a hammer has a use value because it can hit nails, air has a use value because we use it to breathe. The second kind of 
+Before we go into the deep end, we need first go over some definitions. First and most importantly, what even is value. Seeing that all economies are based on value, it is a good place to start. There are three kinds of value for an object, use value, exchange value, and value. Use value is the usefulness that an object has to a person, so a hammer has a use value because it can hit nails, air has a use value because we use it to breathe. The second kind of value, exchange value
  #assignment 
