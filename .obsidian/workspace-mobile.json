@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lacrimosa Notes.md",
+                "file": "Remote Sync/Events/2024-05-17 AP Gov Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lacrimosa Notes.md",
+                "file": "Remote Sync/Events/2024-05-17 AP Gov Project.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +237,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lacrimosa Notes.md",
+            "file": "Remote Sync/Events/2024-05-17 AP Gov Project.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lacrimosa Notes.md",
+            "file": "Remote Sync/Events/2024-05-17 AP Gov Project.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -266,7 +266,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lacrimosa Notes.md"
+            "file": "Remote Sync/Events/2024-05-17 AP Gov Project.md"
           }
         }
       },
@@ -303,10 +303,11 @@
   },
   "active": "1e96101d25a97f55",
   "lastOpenFiles": [
-    "Remote Sync/Home.md",
-    "Lacrimosa Notes.md",
-    "Remote Sync/School/English 3",
+    "Remote Sync/School/AP Gov/Final Project/Capital Notes.md",
+    "Remote Sync/School/English 3/Lacrimosa Notes.md",
     "Remote Sync/School/English 3/Legend of Sleepy Hollow Notes.md",
+    "Remote Sync/Home.md",
+    "Remote Sync/School/English 3",
     "Remote Sync/Personal/Misc/How to Update apt Sources.md",
     "DND/Spells/Sacred Flame.md",
     "/Remote Sync/Personal/Misc/How to Update apt Sources.md",
@@ -332,7 +333,6 @@
     "DND/Spells/Shield of Faith.md",
     "DND/Spells/Hold Monster.md",
     "DND/Spells/Freedom of Movement.md",
-    "DND/Spells/Flame Strike.md",
     "DND/Spells",
     "DND/Classes",
     "/DND/Spells",

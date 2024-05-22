@@ -76,4 +76,10 @@ TABLE source as "Source", summary as "Summary" where contains(file.tags, "apgov"
 	- In this paragraph, I will talk about how we can resolve these issues
 	- I will talk about the importance of class consciousness
 	- I will talk about the importance of organizing
+
+# Script
+
+Welcome back to Mornings with Marx and today we are going to be talking about capitalism. 
+
+Before we go into the deep end, we need first go over some definitions. First and most importantly, what even is capital. For this case, we will be using the definition of capital that Marx used
  #assignment 
