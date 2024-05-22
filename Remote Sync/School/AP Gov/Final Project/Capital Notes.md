@@ -49,7 +49,7 @@ Source: "*Das Kapital*"
 # Contradictions in The Formula of Capital
 - Where does surplus value even come from
 - When the capitalist buys something, there person that they bought it from sees it only as selling and there person who buys the item from the capitalist only sees it as buying
-- Exchanging two in equivalent items does not create surplus value
+- Exchanging two in equivalent items does not create surplus value 
 # The Sale and Purchase of Labor Power
 - Surplus value comes from the sale and purchase of labor power
 - The only place where surplus value can come from is the C part of MCM
