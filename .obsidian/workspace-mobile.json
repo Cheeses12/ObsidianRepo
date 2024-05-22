@@ -28,9 +28,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1e96101d25a97f55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lacrimosa Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7952fcdf608f1723",
@@ -86,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Remote Sync/Home.md",
+                "file": "Lacrimosa Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +237,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Remote Sync/Home.md",
+            "file": "Lacrimosa Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Remote Sync/Home.md",
+            "file": "Lacrimosa Notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -254,7 +266,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Remote Sync/Home.md"
+            "file": "Lacrimosa Notes.md"
           }
         }
       },
@@ -289,10 +301,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8cd5dd4b78bc3a41",
+  "active": "1e96101d25a97f55",
   "lastOpenFiles": [
-    "Legend of Sleepy Hollow Notes.md",
     "Remote Sync/Home.md",
+    "Lacrimosa Notes.md",
+    "Remote Sync/School/English 3",
+    "Remote Sync/School/English 3/Legend of Sleepy Hollow Notes.md",
     "Remote Sync/Personal/Misc/How to Update apt Sources.md",
     "DND/Spells/Sacred Flame.md",
     "/Remote Sync/Personal/Misc/How to Update apt Sources.md",
@@ -319,7 +333,6 @@
     "DND/Spells/Hold Monster.md",
     "DND/Spells/Freedom of Movement.md",
     "DND/Spells/Flame Strike.md",
-    "DND/Spells/Crusader's Mantle.md",
     "DND/Spells",
     "DND/Classes",
     "/DND/Spells",
@@ -330,7 +343,6 @@
     "DND test.canvas",
     "/DND test.canvas",
     "Remote Sync/Personal/US and the EU",
-    "Remote Sync/Personal/Israel and Palistine",
     "Israel and Palestine/Pasted image 20240510174001.png",
     "Israel and Palestine/Pasted image 20240510235357.png",
     "/Israel and Palestine/Pasted image 20240510235357.png",
