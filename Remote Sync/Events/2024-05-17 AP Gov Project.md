@@ -28,8 +28,6 @@ completed:
 - Liberalism is generally the ideology of the the urban bourgeois, a belief that one has individual autonomy and that should be safe from intrusion.
 ## Economic Liberalism
 - Sometimes called Neo-Liberalism, is the ideology that there should be no regulations on the economy or the economic activities of the capitalists. This activity is often called laissez faire capitalism.
-## Liberalism
-- Liberalism as a whole is looking at the problems in society, but not attributing it to capital
 ## Mode of Production
 - A mode of production is a novel and distinct way that goods are produced.
 
@@ -78,4 +76,16 @@ TABLE source as "Source", summary as "Summary" where contains(file.tags, "apgov"
 	- In this paragraph, I will talk about how we can resolve these issues
 	- I will talk about the importance of class consciousness
 	- I will talk about the importance of organizing
+
+# Script
+
+Welcome back to Mornings with Marx and today we are going to be talking about capitalism. 
+
+Quick disclaimer before we start, some of the formatting was assisted by Chat-GPT, but all ideas come solely from me.
+
+Before we go into the deep end, we need first go over some definitions. First and most importantly, what even is value. Seeing that all economies are based on value, it is a good place to start. There are three kinds of value for an object, use value, exchange value, and value. Use value is the usefulness that an object has to a person, so a hammer has a use value because it can hit nails, air has a use value because we use it to breathe. The second kind of value, exchange value, is the value that an object has to humans. This is based on things like the quantity of the item available and the demand for the object. Value is the value that we perceive in the real world. Another key concept is that of capital, the circuit of capital, and the difference between capital and money. Lets start with the circuit of capital and the difference between capital and money. Money takes the C-M-C, or commodity - money - commodity, cycle. That is, a commodity is exchanged for money, which is then exchanged for another commodity. An example of this a worker will exchange their capability to do labor in exchange for money then they will exchange that money for food. Capital takes a similar, but slightly different path. We must first define what capital is. Capital is money that gets more money. Taking that, we can then build a similar circuit. The circuit of capital is M-C-M prime, that is money - commodity - money, where the money out is greater than the money in. This raises a question, how is that excess value generated? Marx claimed that this came from labor. In order for more money to be extracted from the process than what goes in, the worker must do work or produce value that they were not paid for.
+
+This leads us into the contradictions in capital. The primary motive of capital is to increase, and increase it does. To do this, it must minimize the input costs, the raw materials and labor, and maximize the output price, the commodity that is sold. We can see this in companies like Amazon. Last year, they cut almost 27,000 jobs across the entire company, and this year, they have posted record profits. This is the first contradiction, the ongoing push for companies to post higher profits year over year at the cost of workers. With this cut to the workforce and wages, this leads to a fall in the buying power of people and a reduction in the consumption that is necessary to fuel the machine of profit. Due to the lack of consumption, there is a resulting overproduction, leading to economic crisis. In the 1920s, there was huge increase in the productive capabilities of the U.S. We were able to produce more food, more cars, and more consumer goods. Due to this, we saw a huge amount of surplus created and at the same time, the buying power of the worker fell, leading to the Great Depression. This is the second contradiction in capitalism, the overproduction and underconsumption that is brought on by increasing profits. This need for companies to create higher and higher profits also drives competition. Competition on its own isn't necessarily a bad thing, but its implications are. Like all competitions, there are winners and losers, and when a company loses the game of capitalism, it is in the best interests of the other companies to be rid of them and either purchase the losing company or permanently remove them from the competition. This process will always lead to one company on top, which is a monopoly. This is the third contradiction we will be talking about today, and that is competition and monopolization.
+
+Even beyond this, there is one major and pressing issue that must not be ignored: climate change. We are currently facing one of the largest challenges we have faced as a species, and from the looks of things, governments around the world don't seem to be doing anything. Sure, we have plans to be carbon neutral by 2050, but we don't seem to be doing anything to get there. 
  #assignment 
